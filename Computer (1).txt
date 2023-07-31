@@ -1,0 +1,1999 @@
+Computer
+A computer is a machine
+that can be programmed to
+carry out sequences of
+arithmetic
+or
+logical
+operations
+(computation)
+automatically.
+Modern
+digital electronic computers
+can perform generic sets of
+operations
+known
+as
+programs. These programs
+enable computers to perform
+a wide range of tasks. A
+computer system is a
+nominally
+complete
+computer that includes the
+hardware, operating system
+(main
+software),
+and
+peripheral
+equipment
+needed and used for full
+operation. This term may
+also refer to a group of
+computers that are linked
+and function together, such
+as a computer network or
+computer cluster.
+
+Computers and computing devices from different eras – clockwise from top left:
+Early vacuum tube computer (ENIAC)
+Mainframe computer (IBM System 360)
+Desktop computer (IBM ThinkCentre S50 with monitor)
+Supercomputer (IBM Summit)
+Video game console (Nintendo GameCube)
+Smartphone (LYF Water 2)
+
+A broad range of industrial
+and consumer products use
+computers
+as
+control
+systems. Simple specialpurpose devices like microwave ovens and remote controls are included, as are factory devices like
+industrial robots and computer-aided design, as well as general-purpose devices like personal computers
+and mobile devices like smartphones. Computers power the Internet, which links billions of other
+computers and users.
+Early computers were meant to be used only for calculations. Simple manual instruments like the abacus
+have aided people in doing calculations since ancient times. Early in the Industrial Revolution, some
+mechanical devices were built to automate long, tedious tasks, such as guiding patterns for looms. More
+sophisticated electrical machines did specialized analog calculations in the early 20th century. The first
+digital electronic calculating machines were developed during World War II. The first semiconductor
+transistors in the late 1940s were followed by the silicon-based MOSFET (MOS transistor) and monolithic
+integrated circuit chip technologies in the late 1950s, leading to the microprocessor and the microcomputer
+revolution in the 1970s. The speed, power and versatility of computers have been increasing dramatically
+ever since then, with transistor counts increasing at a rapid pace (as predicted by Moore's law), leading to
+the Digital Revolution during the late 20th to early 21st centuries.
+
+Conventionally, a modern computer consists of at least one processing element, typically a central
+processing unit (CPU) in the form of a microprocessor, along with some type of computer memory,
+typically semiconductor memory chips. The processing element carries out arithmetic and logical
+operations, and a sequencing and control unit can change the order of operations in response to stored
+information. Peripheral devices include input devices (keyboards, mice, joystick, etc.), output devices
+(monitor screens, printers, etc.), and input/output devices that perform both functions (e.g., the 2000s-era
+touchscreen). Peripheral devices allow information to be retrieved from an external source and they enable
+the result of operations to be saved and retrieved.
+
+Etymology
+According to the Oxford English Dictionary, the first known
+use of computer was in a 1613 book called The Yong Mans
+Gleanings by the English writer Richard Brathwait: "I haue
+[sic] read the truest computer of Times, and the best
+Arithmetician that euer [sic] breathed, and he reduceth thy
+dayes into a short number." This usage of the term referred to a
+human computer, a person who carried out calculations or
+computations. The word continued with the same meaning
+until the middle of the 20th century. During the latter part of
+this period women were often hired as computers because they
+could be paid less than their male counterparts.[1] By 1943,
+most human computers were women.[2]
+
+A human computer, with microscope and
+calculator, 1952
+
+The Online Etymology Dictionary gives the first attested use of
+computer in the 1640s, meaning 'one who calculates'; this is an
+"agent noun from compute (v.)". The Online Etymology Dictionary states that the use of the term to mean
+" 'calculating machine' (of any type) is from 1897." The Online Etymology Dictionary indicates that the
+"modern use" of the term, to mean 'programmable digital electronic computer' dates from "1945 under this
+name; [in a] theoretical [sense] from 1937, as Turing machine".[3]
+
+History
+Pre-20th century
+Devices have been used to aid computation for thousands of years, mostly using one-to-one
+correspondence with fingers. The earliest counting device was most likely a form of tally stick. Later record
+keeping aids throughout the Fertile Crescent included calculi (clay spheres, cones, etc.) which represented
+counts of items, likely livestock or grains, sealed in hollow unbaked clay containers.[a][4] The use of
+counting rods is one example.
+The abacus was initially used for arithmetic tasks. The Roman abacus was developed from devices used in
+Babylonia as early as 2400 BCE. Since then, many other forms of reckoning boards or tables have been
+invented. In a medieval European counting house, a checkered cloth would be placed on a table, and
+markers moved around on it according to certain rules, as an aid to calculating sums of money.[5]
+The Antikythera mechanism is believed to be the earliest known mechanical analog computer, according to
+Derek J. de Solla Price.[6] It was designed to calculate astronomical positions. It was discovered in 1901 in
+the Antikythera wreck off the Greek island of Antikythera, between Kythera and Crete, and has been dated
+
+to approximately c. 100 BCE.
+Devices of comparable complexity
+to the Antikythera mechanism would
+not reappear until the fourteenth
+century.[7]
+Many mechanical aids to calculation
+and measurement were constructed
+for astronomical and navigation use.
+The Chinese suanpan (
+). The number
+The planisphere was a star chart
+represented on this abacus is
+invented by Abū Rayhān al-Bīrūnī
+6,302,715,408.
+in the early 11th century.[8] The
+astrolabe was invented in the
+Hellenistic world in either the 1st or 2nd centuries BCE and is often attributed to
+Hipparchus. A combination of the planisphere and dioptra, the astrolabe was
+effectively an analog computer capable of working out several different kinds of
+problems in spherical astronomy. An astrolabe incorporating a mechanical
+calendar computer[9][10] and gear-wheels was invented by Abi Bakr of
+Isfahan, Persia in 1235.[11] Abū Rayhān al-Bīrūnī invented the first
+mechanical geared lunisolar calendar astrolabe,[12] an early fixed-wired
+knowledge processing machine[13] with a gear train and gear-wheels,[14]
+c. 1000 AD.
+
+算盘
+
+The sector, a calculating instrument used for solving problems in
+proportion, trigonometry, multiplication and division, and for various
+functions, such as squares and cube roots, was developed in the late 16th
+century and found application in gunnery, surveying and navigation.
+The planimeter was a manual instrument to calculate the area of a closed
+figure by tracing over it with a mechanical linkage.
+
+The Ishango bone, a
+bone tool dating back
+to prehistoric Africa
+
+The Antikythera mechanism,
+dating back to ancient Greece
+circa 150–100 BCE, is an
+early analog computing
+device.
+
+The slide rule was invented
+around 1620–1630 by the
+English clergyman William Oughtred, shortly after the
+publication of the concept of the logarithm. It is a handoperated analog computer for doing multiplication and
+A slide rule
+division. As slide rule development progressed, added scales
+provided reciprocals, squares and square roots, cubes and cube
+roots, as well as transcendental functions such as logarithms and exponentials, circular and hyperbolic
+trigonometry and other functions. Slide rules with special scales are still used for quick performance of
+routine calculations, such as the E6B circular slide rule used for time and distance calculations on light
+aircraft.
+In the 1770s, Pierre Jaquet-Droz, a Swiss watchmaker, built a mechanical doll (automaton) that could write
+holding a quill pen. By switching the number and order of its internal wheels different letters, and hence
+different messages, could be produced. In effect, it could be mechanically "programmed" to read
+instructions. Along with two other complex machines, the doll is at the Musée d'Art et d'Histoire of
+Neuchâtel, Switzerland, and still operates.[15]
+In 1831–1835, mathematician and engineer Giovanni Plana devised a Perpetual Calendar machine, which,
+through a system of pulleys and cylinders and over, could predict the perpetual calendar for every year from
+0 CE (that is, 1 BCE) to 4000 CE, keeping track of leap years and varying day length. The tide-predicting
+
+machine invented by the Scottish scientist Sir William Thomson in 1872 was of great utility to navigation in
+shallow waters. It used a system of pulleys and wires to automatically calculate predicted tide levels for a
+set period at a particular location.
+The differential analyser, a mechanical analog computer designed to solve differential equations by
+integration, used wheel-and-disc mechanisms to perform the integration. In 1876, Sir William Thomson had
+already discussed the possible construction of such calculators, but he had been stymied by the limited
+output torque of the ball-and-disk integrators.[16] In a differential analyzer, the output of one integrator
+drove the input of the next integrator, or a graphing output. The torque amplifier was the advance that
+allowed these machines to work. Starting in the 1920s, Vannevar Bush and others developed mechanical
+differential analyzers.
+
+First computer
+Charles
+Babbage,
+an
+English
+mechanical engineer and polymath,
+originated
+the
+concept
+of
+a
+programmable computer. Considered
+the "father of the computer",[17] he
+conceptualized and invented the first
+mechanical computer in the early 19th
+century.
+After working on his difference engine
+he announced his invention in 1822, in
+a paper to the Royal Astronomical
+Society, titled "Note on the application
+of machinery to the computation of
+astronomical
+and
+mathematical
+Charles Babbage c. 1850
+[18]
+tables",
+he also designed to aid in
+navigational calculations, in 1833 he
+realized that a much more general design, an analytical engine, was
+possible. The input of programs and data was to be provided to the machine
+via punched cards, a method being used at the time to direct mechanical
+looms such as the Jacquard loom. For output, the machine would have a
+printer, a curve plotter and a bell. The machine would also be able to punch
+numbers onto cards to be read in later. The Engine incorporated an
+arithmetic logic unit, control flow in the form of conditional branching and
+loops, and integrated memory, making it the first design for a generalpurpose computer that could be described in modern terms as Turingcomplete.[19][20]
+
+A diagram of a portion of
+Babbage's Difference
+engine
+
+The Difference Engine
+Number 2 at the Intellectual
+Ventures laboratory in
+Seattle
+
+The machine was about a century ahead of its time. All the parts for his
+machine had to be made by hand – this was a major problem for a device
+with thousands of parts. Eventually, the project was dissolved with the decision of the British Government
+to cease funding. Babbage's failure to complete the analytical engine can be chiefly attributed to political
+and financial difficulties as well as his desire to develop an increasingly sophisticated computer and to
+move ahead faster than anyone else could follow. Nevertheless, his son, Henry Babbage, completed a
+simplified version of the analytical engine's computing unit (the mill) in 1888. He gave a successful
+demonstration of its use in computing tables in 1906.
+
+In his work Essays on Automatics published in 1914, the Spanish engineer Leonardo Torres Quevedo
+wrote a brief history of Babbage's efforts at constructing a mechanical Difference Engine and Analytical
+Engine. He described the Analytical Engine as exemplifying his theories about the potential power of
+machines, and takes the problem of designing such an engine as a challenge to his skills as an inventor of
+electromechanical devices. The paper contains a design of a machine capable of calculating completely
+automatically the value of the formula
+, for a sequence of sets of values of the variables
+involved. The whole machine was to be controlled by a read-only program, which was complete with
+provisions for conditional branching. He also introduced the idea of floating-point arithmetic.[21][22] In
+1920, to celebrate the 100th anniversary of the invention of the arithmometer, Torres presented in Paris the
+Electromechanical Arithmometer, a prototype that used relays to implement the functions of an arithmetic
+unit connected to a (possibly remote) typewriter, on which commands could be typed and the results printed
+automatically.[23][24][25]
+
+Analog computers
+
+Sir William Thomson's third tidepredicting machine design, 1879–
+81
+
+During the first half of the 20th century, many scientific computing
+needs were met by increasingly sophisticated analog computers, which
+used a direct mechanical or electrical model of the problem as a basis
+for computation. However, these were not programmable and
+generally lacked the versatility and accuracy of modern digital
+computers.[26] The first modern analog computer was a tide-predicting
+machine, invented by Sir William Thomson (later to become Lord
+Kelvin) in 1872. The differential analyser, a mechanical analog
+computer designed to solve differential equations by integration using
+wheel-and-disc mechanisms, was conceptualized in 1876 by James
+Thomson, the elder brother of the more famous Sir William
+Thomson.[16]
+
+The art of mechanical analog computing reached its zenith with the
+differential analyzer, built by H. L. Hazen and Vannevar Bush at MIT
+starting in 1927. This built on the mechanical integrators of James Thomson and the torque amplifiers
+invented by H. W. Nieman. A dozen of these devices were built before their obsolescence became obvious.
+By the 1950s, the success of digital electronic computers had spelled the end for most analog computing
+machines, but analog computers remained in use during the 1950s in some specialized applications such as
+education (slide rule) and aircraft (control systems).
+
+Digital computers
+Electromechanical
+By 1938, the United States Navy had developed an electromechanical analog computer small enough to
+use aboard a submarine. This was the Torpedo Data Computer, which used trigonometry to solve the
+problem of firing a torpedo at a moving target. During World War II similar devices were developed in
+other countries as well.
+Early digital computers were electromechanical; electric switches drove mechanical relays to perform the
+calculation. These devices had a low operating speed and were eventually superseded by much faster allelectric computers, originally using vacuum tubes. The Z2, created by German engineer Konrad Zuse in
+1939 in Berlin, was one of the earliest examples of an electromechanical relay computer.[27]
+
+In 1941, Zuse followed his earlier machine up
+with the Z3, the world's first working
+electromechanical
+programmable,
+fully
+[30][31]
+automatic digital computer.
+The Z3
+was built with 2000 relays, implementing a
+22 bit word length that operated at a clock
+frequency of about 5–10 Hz.[32] Program
+code was supplied on punched film while
+data could be stored in 64 words of memory
+Replica of Konrad Zuse's Z3, the
+or supplied from the keyboard. It was quite
+first fully automatic, digital
+Konrad Zuse,
+similar to modern machines in some respects,
+(electromechanical) computer
+inventor of the
+pioneering numerous advances such as
+modern
+floating-point numbers. Rather than the
+computer[28][29]
+harder-to-implement decimal system (used in Charles Babbage's earlier design),
+using a binary system meant that Zuse's machines were easier to build and
+potentially more reliable, given the technologies available at that time.[33] The Z3 was not itself a universal
+computer but could be extended to be Turing complete.[34][35]
+Zuse's next computer, the Z4, became the world's first commercial computer; after initial delay due to the
+Second World War, it was completed in 1950 and delivered to the ETH Zurich.[36] The computer was
+manufactured by Zuse's own company, Zuse KG, which was founded in 1941 as the first company with
+the sole purpose of developing computers in Berlin.[36]
+Vacuum tubes and digital electronic circuits
+Purely electronic circuit elements soon replaced their mechanical and electromechanical equivalents, at the
+same time that digital calculation replaced analog. The engineer Tommy Flowers, working at the Post
+Office Research Station in London in the 1930s, began to explore the possible use of electronics for the
+telephone exchange. Experimental equipment that he built in 1934 went into operation five years later,
+converting a portion of the telephone exchange network into an electronic data processing system, using
+thousands of vacuum tubes.[26] In the US, John Vincent Atanasoff and Clifford E. Berry of Iowa State
+University developed and tested the Atanasoff–Berry Computer (ABC) in 1942,[37] the first "automatic
+electronic digital computer".[38] This design was also all-electronic and used about 300 vacuum tubes, with
+capacitors fixed in a mechanically rotating drum for memory.[39]
+During World War II, the British code-breakers at Bletchley
+Park achieved a number of successes at breaking encrypted
+German military communications. The German encryption
+machine, Enigma, was first attacked with the help of the
+electro-mechanical bombes which were often run by
+women.[40][41] To crack the more sophisticated German
+Lorenz SZ 40/42 machine, used for high-level Army
+communications, Max Newman and his colleagues
+commissioned Flowers to build the Colossus.[39] He spent
+eleven months from early February 1943 designing and
+building the first Colossus.[42] After a functional test in
+December 1943, Colossus was shipped to Bletchley Park,
+where it was delivered on 18 January 1944[43] and attacked its
+first message on 5 February.[39]
+
+Colossus, the first electronic digital
+programmable computing device, was
+used to break German ciphers during
+World War II. It is seen here in use at
+Bletchley Park in 1943.
+
+Colossus was the world's first electronic digital programmable computer.[26] It used a large number of
+valves (vacuum tubes). It had paper-tape input and was capable of being configured to perform a variety of
+boolean logical operations on its data, but it was not Turing-complete. Nine Mk II Colossi were built (The
+Mk I was converted to a Mk II making ten machines in total). Colossus Mark I contained 1,500 thermionic
+valves (tubes), but Mark II with 2,400 valves, was both five times faster and simpler to operate than Mark I,
+greatly speeding the decoding process.[44][45]
+
+ENIAC was the first electronic, Turingcomplete device, and performed ballistics
+trajectory calculations for the United
+States Army.
+
+The ENIAC[46] (Electronic Numerical Integrator and
+Computer) was the first electronic programmable computer
+built in the U.S. Although the ENIAC was similar to the
+Colossus, it was much faster, more flexible, and it was Turingcomplete. Like the Colossus, a "program" on the ENIAC was
+defined by the states of its patch cables and switches, a far cry
+from the stored program electronic machines that came later.
+Once a program was written, it had to be mechanically set into
+the machine with manual resetting of plugs and switches. The
+programmers of the ENIAC were six women, often known
+collectively as the "ENIAC girls".[47][48]
+
+It combined the high speed of electronics with the ability to be
+programmed for many complex problems. It could add or
+subtract 5000 times a second, a thousand times faster than any
+other machine. It also had modules to multiply, divide, and
+square root. High speed memory was limited to 20 words (about 80 bytes). Built under the direction of
+John Mauchly and J. Presper Eckert at the University of Pennsylvania, ENIAC's development and
+construction lasted from 1943 to full operation at the end of 1945. The machine was huge, weighing 30
+tons, using 200 kilowatts of electric power and contained over 18,000 vacuum tubes, 1,500 relays, and
+hundreds of thousands of resistors, capacitors, and inductors.[49]
+
+Modern computers
+Concept of modern computer
+The principle of the modern computer was proposed by Alan Turing in his seminal 1936 paper,[50] On
+Computable Numbers. Turing proposed a simple device that he called "Universal Computing machine"
+and that is now known as a universal Turing machine. He proved that such a machine is capable of
+computing anything that is computable by executing instructions (program) stored on tape, allowing the
+machine to be programmable. The fundamental concept of Turing's design is the stored program, where all
+the instructions for computing are stored in memory. Von Neumann acknowledged that the central concept
+of the modern computer was due to this paper.[51] Turing machines are to this day a central object of study
+in theory of computation. Except for the limitations imposed by their finite memory stores, modern
+computers are said to be Turing-complete, which is to say, they have algorithm execution capability
+equivalent to a universal Turing machine.
+Stored programs
+Early computing machines had fixed programs. Changing its function required the re-wiring and restructuring of the machine.[39] With the proposal of the stored-program computer this changed. A storedprogram computer includes by design an instruction set and can store in memory a set of instructions (a
+program) that details the computation. The theoretical basis for the stored-program computer was laid out
+
+by Alan Turing in his 1936 paper. In 1945, Turing joined the
+National Physical Laboratory and began work on developing
+an electronic stored-program digital computer. His 1945 report
+"Proposed Electronic Calculator" was the first specification for
+such a device. John von Neumann at the University of
+Pennsylvania also circulated his First Draft of a Report on the
+EDVAC in 1945.[26]
+The Manchester Baby was the world's first stored-program
+computer. It was built at the University of Manchester in
+A section of the reconstructed
+England by Frederic C. Williams, Tom Kilburn and Geoff
+Manchester Baby, the first electronic
+Tootill, and ran its first program on 21 June 1948.[52] It was
+stored-program computer
+designed as a testbed for the Williams tube, the first randomaccess digital storage device.[53] Although the computer was
+described as "small and primitive" by a 1998 retrospective, it was the first working machine to contain all
+of the elements essential to a modern electronic computer.[54] As soon as the Baby had demonstrated the
+feasibility of its design, a project began at the university to develop it into a practically useful computer, the
+Manchester Mark 1.
+The Mark 1 in turn quickly became the prototype for the Ferranti Mark 1, the world's first commercially
+available general-purpose computer.[55] Built by Ferranti, it was delivered to the University of Manchester
+in February 1951. At least seven of these later machines were delivered between 1953 and 1957, one of
+them to Shell labs in Amsterdam.[56] In October 1947 the directors of British catering company J. Lyons &
+Company decided to take an active role in promoting the commercial development of computers. Lyons's
+LEO I computer, modelled closely on the Cambridge EDSAC of 1949, became operational in April
+1951[57] and ran the world's first routine office computer job.
+Grace Hopper was the first to develop a compiler for a programming language.[2]
+Transistors
+The concept of a field-effect transistor was proposed by Julius
+Edgar Lilienfeld in 1925. John Bardeen and Walter Brattain, while
+working under William Shockley at Bell Labs, built the first
+working transistor, the point-contact transistor, in 1947, which was
+followed by Shockley's bipolar junction transistor in 1948.[58][59]
+From 1955 onwards, transistors replaced vacuum tubes in computer
+designs, giving rise to the "second generation" of computers.
+Compared to vacuum tubes, transistors have many advantages: they
+are smaller, and require less power than vacuum tubes, so give off
+Bipolar junction transistor (BJT)
+less heat. Junction transistors were much more reliable than vacuum
+tubes and had longer, indefinite, service life. Transistorized
+computers could contain tens of thousands of binary logic circuits in a relatively compact space. However,
+early junction transistors were relatively bulky devices that were difficult to manufacture on a massproduction basis, which limited them to a number of specialised applications.[60]
+At the University of Manchester, a team under the leadership of Tom Kilburn designed and built a machine
+using the newly developed transistors instead of valves.[61] Their first transistorised computer and the first
+in the world, was operational by 1953, and a second version was completed there in April 1955. However,
+the machine did make use of valves to generate its 125 kHz clock waveforms and in the circuitry to read
+
+and write on its magnetic drum memory, so it was not the first completely transistorized computer. That
+distinction goes to the Harwell CADET of 1955,[62] built by the electronics division of the Atomic Energy
+Research Establishment at Harwell.[62][63]
+The metal–oxide–silicon field-effect transistor (MOSFET), also
+known as the MOS transistor, was invented by Mohamed M. Atalla
+and Dawon Kahng at Bell Labs in 1959.[64] It was the first truly
+compact transistor that could be miniaturised and mass-produced for
+a wide range of uses.[60] With its high scalability,[65] and much
+lower power consumption and higher density than bipolar junction
+transistors,[66] the MOSFET made it possible to build high-density
+integrated circuits.[67][68] In addition to data processing, it also
+enabled the practical use of MOS transistors as memory cell storage
+elements, leading to the development of MOS semiconductor
+memory, which replaced earlier magnetic-core memory in
+computers. The MOSFET led to the microcomputer revolution,[69]
+and became the driving force behind the computer
+revolution.[70][71] The MOSFET is the most widely used transistor
+in computers,[72][73] and is the fundamental building block of
+digital electronics.[74]
+
+MOSFET (MOS transistor), showing
+gate (G), body (B), source (S) and
+drain (D) terminals. The gate is
+separated from the body by an
+insulating layer (pink).
+
+Integrated circuits
+
+Die photograph of a MOS 6502, Integrated circuits are typically packaged in
+an early 1970s microprocessor plastic, metal, or ceramic cases to protect the IC
+integrating 3500 transistors on a from damage and for ease of assembly.
+single chip
+
+The next great advance in computing power came with the advent of the integrated circuit (IC). The idea of
+the integrated circuit was first conceived by a radar scientist working for the Royal Radar Establishment of
+the Ministry of Defence, Geoffrey W.A. Dummer. Dummer presented the first public description of an
+integrated circuit at the Symposium on Progress in Quality Electronic Components in Washington, D.C., on
+7 May 1952.[75]
+The first working ICs were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild
+Semiconductor.[76] Kilby recorded his initial ideas concerning the integrated circuit in July 1958,
+successfully demonstrating the first working integrated example on 12 September 1958.[77] In his patent
+application of 6 February 1959, Kilby described his new device as "a body of semiconductor material ...
+
+wherein all the components of the electronic circuit are completely integrated".[78][79] However, Kilby's
+invention was a hybrid integrated circuit (hybrid IC), rather than a monolithic integrated circuit (IC)
+chip.[80] Kilby's IC had external wire connections, which made it difficult to mass-produce.[81]
+Noyce also came up with his own idea of an integrated circuit half a year later than Kilby.[82] Noyce's
+invention was the first true monolithic IC chip.[83][81] His chip solved many practical problems that Kilby's
+had not. Produced at Fairchild Semiconductor, it was made of silicon, whereas Kilby's chip was made of
+germanium. Noyce's monolithic IC was fabricated using the planar process, developed by his colleague
+Jean Hoerni in early 1959. In turn, the planar process was based on Mohamed M. Atalla's work on
+semiconductor surface passivation by silicon dioxide in the late 1950s.[84][85][86]
+Modern monolithic ICs are predominantly MOS (metal–oxide–semiconductor) integrated circuits, built
+from MOSFETs (MOS transistors).[87] The earliest experimental MOS IC to be fabricated was a 16transistor chip built by Fred Heiman and Steven Hofstein at RCA in 1962.[88] General Microelectronics
+later introduced the first commercial MOS IC in 1964,[89] developed by Robert Norman.[88] Following the
+development of the self-aligned gate (silicon-gate) MOS transistor by Robert Kerwin, Donald Klein and
+John Sarace at Bell Labs in 1967, the first silicon-gate MOS IC with self-aligned gates was developed by
+Federico Faggin at Fairchild Semiconductor in 1968.[90] The MOSFET has since become the most critical
+device component in modern ICs.[87]
+The development of the MOS integrated circuit led to the invention of the microprocessor,[91][92] and
+heralded an explosion in the commercial and personal use of computers. While the subject of exactly which
+device was the first microprocessor is contentious, partly due to lack of agreement on the exact definition of
+the term "microprocessor", it is largely undisputed that the first single-chip microprocessor was the Intel
+4004,[93] designed and realized by Federico Faggin with his silicon-gate MOS IC technology,[91] along
+with Ted Hoff, Masatoshi Shima and Stanley Mazor at Intel.[b][95] In the early 1970s, MOS IC technology
+enabled the integration of more than 10,000 transistors on a single chip.[68]
+System on a Chip (SoCs) are complete computers on a microchip (or chip) the size of a coin.[96] They may
+or may not have integrated RAM and flash memory. If not integrated, the RAM is usually placed directly
+above (known as Package on package) or below (on the opposite side of the circuit board) the SoC, and the
+flash memory is usually placed right next to the SoC, this all done to improve data transfer speeds, as the
+data signals do not have to travel long distances. Since ENIAC in 1945, computers have advanced
+enormously, with modern SoCs (Such as the Snapdragon 865) being the size of a coin while also being
+hundreds of thousands of times more powerful than ENIAC, integrating billions of transistors, and
+consuming only a few watts of power.
+
+Mobile computers
+The first mobile computers were heavy and ran from mains power. The 50 lb (23 kg) IBM 5100 was an
+early example. Later portables such as the Osborne 1 and Compaq Portable were considerably lighter but
+still needed to be plugged in. The first laptops, such as the Grid Compass, removed this requirement by
+incorporating batteries – and with the continued miniaturization of computing resources and advancements
+in portable battery life, portable computers grew in popularity in the 2000s.[97] The same developments
+allowed manufacturers to integrate computing resources into cellular mobile phones by the early 2000s.
+
+These smartphones and tablets run on a variety of operating systems and recently became the dominant
+computing device on the market.[98] These are powered by System on a Chip (SoCs), which are complete
+computers on a microchip the size of a coin.[96]
+
+Types
+Computers can be classified in a number of different ways, including:
+
+By architecture
+Analog computer
+Digital computer
+Hybrid computer
+Harvard architecture
+Von Neumann architecture
+Complex instruction set computer
+Reduced instruction set computer
+
+By size, form-factor and purpose
+Supercomputer
+Mainframe computer
+Minicomputer (term no longer used),[99] Midrange computer
+Server
+Rackmount server
+Blade server
+Tower server
+Personal computer
+Workstation
+Microcomputer (term no longer used)[100]
+Home computer (term fallen into disuse)[101]
+Desktop computer
+Tower desktop
+Slimline desktop
+Multimedia computer (non-linear editing system computers, video editing PCs
+and the like, this term is no longer used)[102]
+Gaming computer
+All-in-one PC
+Nettop (Small form factor PCs, Mini PCs)
+Home theater PC
+Keyboard computer
+Portable computer
+Thin client
+
+Internet appliance
+Laptop
+Desktop replacement computer
+Gaming laptop
+Rugged laptop
+2-in-1 PC
+Ultrabook
+Chromebook
+Subnotebook
+Netbook
+Mobile computers:
+Tablet computer
+Smartphone
+Ultra-mobile PC
+Pocket PC
+Palmtop PC
+Handheld PC
+Wearable computer
+Smartwatch
+Smartglasses
+Single-board computer
+Plug computer
+Stick PC
+Programmable logic controller
+Computer-on-module
+System on module
+System in a package
+System-on-chip (Also known as an Application Processor or AP if it lacks circuitry such as
+radio circuitry)
+Microcontroller
+
+Hardware
+
+Video demonstrating the standard
+components of a "slimline" computer
+
+The term hardware covers all of those parts of a computer that are tangible physical objects. Circuits,
+computer chips, graphic cards, sound cards, memory (RAM), motherboard, displays, power supplies,
+cables, keyboards, printers and "mice" input devices are all hardware.
+
+History of computing hardware
+
+First generation
+(mechanical/electromechanical)
+
+Second generation
+(vacuum tubes)
+
+Third generation
+(discrete transistors and SSI, MSI,
+LSI integrated circuits)
+
+Fourth generation
+(VLSI integrated circuits)
+
+Calculators
+
+Pascal's calculator, Arithmometer, Difference
+engine, Quevedo's analytical machines
+
+Programmable
+devices
+
+Jacquard loom, Analytical engine, IBM
+ASCC/Harvard Mark I, Harvard Mark II, IBM
+SSEC, Z1, Z2, Z3
+
+Calculators
+
+Atanasoff–Berry Computer, IBM 604, UNIVAC 60,
+UNIVAC 120
+
+Programmable
+devices
+
+Colossus, ENIAC, Manchester Baby, EDSAC,
+Manchester Mark 1, Ferranti Pegasus, Ferranti
+Mercury, CSIRAC, EDVAC, UNIVAC I, IBM 701,
+IBM 702, IBM 650, Z22
+
+Mainframes
+
+IBM 7090, IBM 7080, IBM System/360, BUNCH
+
+Minicomputer
+
+HP 2116A, IBM System/32, IBM System/36,
+LINC, PDP-8, PDP-11
+
+Desktop Computer
+
+HP 9100
+
+Minicomputer
+
+VAX, IBM AS/400
+
+4-bit
+microcomputer
+
+Intel 4004, Intel 4040
+
+8-bit
+microcomputer
+
+Intel 8008, Intel 8080, Motorola 6800, Motorola
+6809, MOS Technology 6502, Zilog Z80
+
+16-bit
+microcomputer
+
+Intel 8088, Zilog Z8000, WDC 65816/65802
+
+32-bit
+microcomputer
+
+Intel 80386, Pentium, Motorola 68000, ARM
+
+64-bit
+microcomputer[c]
+
+Alpha, MIPS, PA-RISC, PowerPC, SPARC, x8664, ARMv8-A
+
+Embedded
+computer
+
+Intel 8048, Intel 8051
+
+Personal computer
+
+Desktop computer, Home computer, Laptop
+computer, Personal digital assistant (PDA),
+Portable computer, Tablet PC, Wearable computer
+
+Quantum computer
+
+IBM Q System One
+
+Chemical computer
+DNA computing
+Theoretical/experimental
+
+Optical computer
+Spintronics-based
+computer
+Wetware/Organic
+computer
+
+Other hardware topics
+
+Peripheral device
+(input/output)
+
+Computer buses
+
+Input
+
+Mouse, keyboard, joystick, image scanner, webcam,
+graphics tablet, microphone
+
+Output
+
+Monitor, printer, loudspeaker
+
+Both
+
+Floppy disk drive, hard disk drive, optical disc drive,
+teleprinter
+
+Short range
+
+RS-232, SCSI, PCI, USB
+
+Long range (computer
+networking)
+
+Ethernet, ATM, FDDI
+
+A general-purpose computer has four main components: the arithmetic logic unit (ALU), the control unit,
+the memory, and the input and output devices (collectively termed I/O). These parts are interconnected by
+buses, often made of groups of wires. Inside each of these parts are thousands to trillions of small electrical
+circuits which can be turned off or on by means of an electronic switch. Each circuit represents a bit (binary
+digit) of information so that when the circuit is on it represents a "1", and when off it represents a "0" (in
+positive logic representation). The circuits are arranged in logic gates so that one or more of the circuits may
+control the state of one or more of the other circuits.
+
+Input devices
+When unprocessed data is sent to the computer with the help of input devices, the data is processed and
+sent to output devices. The input devices may be hand-operated or automated. The act of processing is
+mainly regulated by the CPU. Some examples of input devices are:
+Computer keyboard
+Digital camera
+Digital video
+Graphics tablet
+Image scanner
+Joystick
+Microphone
+Mouse
+Overlay keyboard
+Real-time clock
+Trackball
+Touchscreen
+Light pen
+
+Output devices
+The means through which computer gives output are known as output devices. Some examples of output
+devices are:
+Computer monitor
+Printer
+PC speaker
+
+Projector
+Sound card
+Video card
+
+Control unit
+The control unit (often called a control system or
+central controller) manages the computer's various
+components; it reads and interprets (decodes) the
+program instructions, transforming them into
+control signals that activate other parts of the
+computer.[d] Control systems in advanced
+computers may change the order of execution of
+some instructions to improve performance.
+
+Diagram showing how a particular MIPS architecture
+instruction would be decoded by the control system
+
+A key component common to all CPUs is the
+program counter, a special memory cell (a register) that keeps track of which location in memory the next
+instruction is to be read from.[e]
+The control system's function is as follows— this is a simplified description, and some of these steps may
+be performed concurrently or in a different order depending on the type of CPU:
+1. Read the code for the next instruction from the cell indicated by the program counter.
+2. Decode the numerical code for the instruction into a set of commands or signals for each of
+the other systems.
+3. Increment the program counter so it points to the next instruction.
+4. Read whatever data the instruction requires from cells in memory (or perhaps from an input
+device). The location of this required data is typically stored within the instruction code.
+5. Provide the necessary data to an ALU or register.
+6. If the instruction requires an ALU or specialized hardware to complete, instruct the hardware
+to perform the requested operation.
+7. Write the result from the ALU back to a memory location or to a register or perhaps an output
+device.
+8. Jump back to step (1).
+Since the program counter is (conceptually) just another set of memory cells, it can be changed by
+calculations done in the ALU. Adding 100 to the program counter would cause the next instruction to be
+read from a place 100 locations further down the program. Instructions that modify the program counter are
+often known as "jumps" and allow for loops (instructions that are repeated by the computer) and often
+conditional instruction execution (both examples of control flow).
+The sequence of operations that the control unit goes through to process an instruction is in itself like a
+short computer program, and indeed, in some more complex CPU designs, there is another yet smaller
+computer called a microsequencer, which runs a microcode program that causes all of these events to
+happen.
+
+Central processing unit (CPU)
+
+The control unit, ALU, and registers are collectively known as a central processing unit (CPU). Early
+CPUs were composed of many separate components. Since the 1970s, CPUs have typically been
+constructed on a single MOS integrated circuit chip called a microprocessor.
+
+Arithmetic logic unit (ALU)
+The ALU is capable of performing two classes of operations: arithmetic and logic.[103] The set of
+arithmetic operations that a particular ALU supports may be limited to addition and subtraction, or might
+include multiplication, division, trigonometry functions such as sine, cosine, etc., and square roots. Some
+can operate only on whole numbers (integers) while others use floating point to represent real numbers,
+albeit with limited precision. However, any computer that is capable of performing just the simplest
+operations can be programmed to break down the more complex operations into simple steps that it can
+perform. Therefore, any computer can be programmed to perform any arithmetic operation—although it
+will take more time to do so if its ALU does not directly support the operation. An ALU may also compare
+numbers and return Boolean truth values (true or false) depending on whether one is equal to, greater than
+or less than the other ("is 64 greater than 65?"). Logic operations involve Boolean logic: AND, OR, XOR,
+and NOT. These can be useful for creating complicated conditional statements and processing Boolean
+logic.
+Superscalar computers may contain multiple ALUs, allowing them to process several instructions
+simultaneously.[104] Graphics processors and computers with SIMD and MIMD features often contain
+ALUs that can perform arithmetic on vectors and matrices.
+
+Memory
+A computer's memory can be viewed as a list of cells into which
+numbers can be placed or read. Each cell has a numbered "address"
+and can store a single number. The computer can be instructed to
+"put the number 123 into the cell numbered 1357" or to "add the
+number that is in cell 1357 to the number that is in cell 2468 and put
+the answer into cell 1595." The information stored in memory may
+represent practically anything. Letters, numbers, even computer
+instructions can be placed into memory with equal ease. Since the
+CPU does not differentiate between different types of information,
+it is the software's responsibility to give significance to what the
+memory sees as nothing but a series of numbers.
+
+Magnetic-core memory (using
+magnetic cores) was the computer
+memory of choice in the 1960s, until
+it was replaced by semiconductor
+memory (using MOS memory cells).
+
+In almost all modern computers, each memory cell is set up to store
+binary numbers in groups of eight bits (called a byte). Each byte is
+able to represent 256 different numbers (28 = 256); either from 0 to
+255 or −128 to +127. To store larger numbers, several consecutive bytes may be used (typically, two, four
+or eight). When negative numbers are required, they are usually stored in two's complement notation. Other
+arrangements are possible, but are usually not seen outside of specialized applications or historical contexts.
+A computer can store any kind of information in memory if it can be represented numerically. Modern
+computers have billions or even trillions of bytes of memory.
+The CPU contains a special set of memory cells called registers that can be read and written to much more
+rapidly than the main memory area. There are typically between two and one hundred registers depending
+on the type of CPU. Registers are used for the most frequently needed data items to avoid having to access
+
+main memory every time data is needed. As data is constantly being worked on, reducing the need to
+access main memory (which is often slow compared to the ALU and control units) greatly increases the
+computer's speed.
+Computer main memory comes in two principal varieties:
+random-access memory or RAM
+read-only memory or ROM
+RAM can be read and written to anytime the CPU commands it, but ROM is preloaded with data and
+software that never changes, therefore the CPU can only read from it. ROM is typically used to store the
+computer's initial start-up instructions. In general, the contents of RAM are erased when the power to the
+computer is turned off, but ROM retains its data indefinitely. In a PC, the ROM contains a specialized
+program called the BIOS that orchestrates loading the computer's operating system from the hard disk drive
+into RAM whenever the computer is turned on or reset. In embedded computers, which frequently do not
+have disk drives, all of the required software may be stored in ROM. Software stored in ROM is often
+called firmware, because it is notionally more like hardware than software. Flash memory blurs the
+distinction between ROM and RAM, as it retains its data when turned off but is also rewritable. It is
+typically much slower than conventional ROM and RAM however, so its use is restricted to applications
+where high speed is unnecessary.[f]
+In more sophisticated computers there may be one or more RAM cache memories, which are slower than
+registers but faster than main memory. Generally computers with this sort of cache are designed to move
+frequently needed data into the cache automatically, often without the need for any intervention on the
+programmer's part.
+
+Input/output (I/O)
+I/O is the means by which a computer exchanges information with
+the outside world.[106] Devices that provide input or output to the
+computer are called peripherals.[107] On a typical personal
+computer, peripherals include input devices like the keyboard and
+mouse, and output devices such as the display and printer. Hard
+disk drives, floppy disk drives and optical disc drives serve as both
+input and output devices. Computer networking is another form of
+I/O. I/O devices are often complex computers in their own right,
+Hard disk drives are common
+with their own CPU and memory. A graphics processing unit might
+storage devices used with
+contain fifty or more tiny computers that perform the calculations
+computers.
+necessary to display 3D graphics. Modern desktop computers
+contain many smaller computers that assist the main CPU in
+performing I/O. A 2016-era flat screen display contains its own computer circuitry.
+
+Multitasking
+While a computer may be viewed as running one gigantic program stored in its main memory, in some
+systems it is necessary to give the appearance of running several programs simultaneously. This is achieved
+by multitasking i.e. having the computer switch rapidly between running each program in turn.[108] One
+means by which this is done is with a special signal called an interrupt, which can periodically cause the
+computer to stop executing instructions where it was and do something else instead. By remembering
+where it was executing prior to the interrupt, the computer can return to that task later. If several programs
+
+are running "at the same time". then the interrupt generator might be causing several hundred interrupts per
+second, causing a program switch each time. Since modern computers typically execute instructions several
+orders of magnitude faster than human perception, it may appear that many programs are running at the
+same time even though only one is ever executing in any given instant. This method of multitasking is
+sometimes termed "time-sharing" since each program is allocated a "slice" of time in turn.[109]
+Before the era of inexpensive computers, the principal use for multitasking was to allow many people to
+share the same computer. Seemingly, multitasking would cause a computer that is switching between
+several programs to run more slowly, in direct proportion to the number of programs it is running, but most
+programs spend much of their time waiting for slow input/output devices to complete their tasks. If a
+program is waiting for the user to click on the mouse or press a key on the keyboard, then it will not take a
+"time slice" until the event it is waiting for has occurred. This frees up time for other programs to execute so
+that many programs may be run simultaneously without unacceptable speed loss.
+
+Multiprocessing
+Some computers are designed to distribute their work across
+several CPUs in a multiprocessing configuration, a technique
+once employed in only large and powerful machines such as
+supercomputers, mainframe computers and servers.
+Multiprocessor and multi-core (multiple CPUs on a single
+integrated circuit) personal and laptop computers are now
+widely available, and are being increasingly used in lower-end
+markets as a result.
+Supercomputers in particular often have highly unique
+Cray designed many supercomputers that
+architectures that differ significantly from the basic stored[g]
+used multiprocessing heavily.
+program architecture and from general-purpose computers.
+They often feature thousands of CPUs, customized high-speed
+interconnects, and specialized computing hardware. Such
+designs tend to be useful for only specialized tasks due to the large scale of program organization required
+to use most of the available resources at once. Supercomputers usually see usage in large-scale simulation,
+graphics rendering, and cryptography applications, as well as with other so-called "embarrassingly parallel"
+tasks.
+
+Software
+Software refers to parts of the computer which do not have a material form, such as programs, data,
+protocols, etc. Software is that part of a computer system that consists of encoded information or computer
+instructions, in contrast to the physical hardware from which the system is built. Computer software
+includes computer programs, libraries and related non-executable data, such as online documentation or
+digital media. It is often divided into system software and application software Computer hardware and
+software require each other and neither can be realistically used on its own. When software is stored in
+hardware that cannot easily be modified, such as with BIOS ROM in an IBM PC compatible computer, it is
+sometimes called "firmware".
+
+Operating system
+/System Software
+
+Library
+
+Data
+
+User interface
+
+Application
+Software
+
+Unix and BSD
+
+UNIX System V, IBM AIX, HP-UX, Solaris (SunOS), IRIX, List of
+BSD operating systems
+
+Linux
+
+List of Linux distributions, Comparison of Linux distributions
+
+Microsoft Windows
+
+Windows 95, Windows 98, Windows NT, Windows 2000, Windows
+ME, Windows XP, Windows Vista, Windows 7, Windows 8, Windows
+8.1, Windows 10, Windows 11
+
+DOS
+
+86-DOS (QDOS), IBM PC DOS, MS-DOS, DR-DOS, FreeDOS
+
+Macintosh
+operating systems
+
+Classic Mac OS, macOS (previously OS X and Mac OS X)
+
+Embedded and
+real-time
+
+List of embedded operating systems
+
+Experimental
+
+Amoeba, Oberon–AOS, Bluebottle, A2, Plan 9 from Bell Labs
+
+Multimedia
+
+DirectX, OpenGL, OpenAL, Vulkan (API)
+
+Programming
+library
+
+C standard library, Standard Template Library
+
+Protocol
+
+TCP/IP, Kermit, FTP, HTTP, SMTP
+
+File format
+
+HTML, XML, JPEG, MPEG, PNG
+
+Graphical user
+interface (WIMP)
+
+Microsoft Windows, GNOME, KDE, QNX Photon, CDE, GEM, Aqua
+
+Text-based user
+interface
+
+Command-line interface, Text user interface
+
+Office suite
+
+Word processing, Desktop publishing, Presentation program,
+Database management system, Scheduling & Time management,
+Spreadsheet, Accounting software
+
+Internet Access
+
+Browser, Email client, Web server, Mail transfer agent, Instant
+messaging
+
+Design and
+manufacturing
+
+Computer-aided design, Computer-aided manufacturing, Plant
+management, Robotic manufacturing, Supply chain management
+
+Graphics
+
+Raster graphics editor, Vector graphics editor, 3D modeler, Animation
+editor, 3D computer graphics, Video editing, Image processing
+
+Audio
+
+Digital audio editor, Audio playback, Mixing, Audio synthesis,
+Computer music
+
+Software
+engineering
+
+Compiler, Assembler, Interpreter, Debugger, Text editor, Integrated
+development environment, Software performance analysis, Revision
+control, Software configuration management
+
+Educational
+
+Edutainment, Educational game, Serious game, Flight simulator
+
+Games
+
+Strategy, Arcade, Puzzle, Simulation, First-person shooter, Platform,
+Massively multiplayer, Interactive fiction
+
+Misc
+
+Artificial intelligence, Antivirus software, Malware scanner,
+Installer/Package management systems, File manager
+
+Languages
+There are thousands of different programming languages—some intended for general purpose, others
+useful for only highly specialized applications.
+
+Programming languages
+Lists of programming
+languages
+
+Timeline of programming languages, List of programming languages by category,
+Generational list of programming languages, List of programming languages, NonEnglish-based programming languages
+
+Commonly used assembly
+languages
+
+ARM, MIPS, x86
+
+Commonly used high-level
+programming languages
+
+Ada, BASIC, C, C++, C#, COBOL, Fortran, PL/I, REXX, Java, Lisp, Pascal,
+Object Pascal
+
+Commonly used scripting
+languages
+
+Bourne script, JavaScript, Python, Ruby, PHP, Perl
+
+Programs
+The defining feature of modern computers which distinguishes them from all other machines is that they
+can be programmed. That is to say that some type of instructions (the program) can be given to the
+computer, and it will process them. Modern computers based on the von Neumann architecture often have
+machine code in the form of an imperative programming language. In practical terms, a computer program
+may be just a few instructions or extend to many millions of instructions, as do the programs for word
+processors and web browsers for example. A typical modern computer can execute billions of instructions
+per second (gigaflops) and rarely makes a mistake over many years of operation. Large computer programs
+consisting of several million instructions may take teams of programmers years to write, and due to the
+complexity of the task almost certainly contain errors.
+Stored program architecture
+This section applies to most common RAM machine–based
+computers.
+In most cases, computer instructions are simple: add one number to
+another, move some data from one location to another, send a
+message to some external device, etc. These instructions are read
+from the computer's memory and are generally carried out
+(executed) in the order they were given. However, there are usually
+Replica of the Manchester Baby, the
+specialized instructions to tell the computer to jump ahead or
+world's first electronic storedbackwards to some other place in the program and to carry on
+program computer, at the Museum of
+executing from there. These are called "jump" instructions (or
+Science and Industry in Manchester,
+branches). Furthermore, jump instructions may be made to happen
+England
+conditionally so that different sequences of instructions may be used
+depending on the result of some previous calculation or some
+external event. Many computers directly support subroutines by providing a type of jump that "remembers"
+the location it jumped from and another instruction to return to the instruction following that jump
+instruction.
+Program execution might be likened to reading a book. While a person will normally read each word and
+line in sequence, they may at times jump back to an earlier place in the text or skip sections that are not of
+interest. Similarly, a computer may sometimes go back and repeat the instructions in some section of the
+program over and over again until some internal condition is met. This is called the flow of control within
+the program and it is what allows the computer to perform tasks repeatedly without human intervention.
+
+Comparatively, a person using a pocket calculator can perform a basic arithmetic operation such as adding
+two numbers with just a few button presses. But to add together all of the numbers from 1 to 1,000 would
+take thousands of button presses and a lot of time, with a near certainty of making a mistake. On the other
+hand, a computer may be programmed to do this with just a few simple instructions. The following
+example is written in the MIPS assembly language:
+begin:
+addi $8, $0, 0
+addi $9, $0, 1
+loop:
+slti $10, $9, 1000
+beq $10, $0, finish
+add $8, $8, $9
+addi $9, $9, 1
+j loop
+finish:
+add $2, $8, $0
+
+# initialize sum to 0
+# set first number to add = 1
+#
+#
+#
+#
+#
+
+check if the number is less than 1000
+if odd number is greater than n then exit
+update sum
+get next number
+repeat the summing process
+
+# put sum in output register
+
+Once told to run this program, the computer will perform the repetitive addition task without further human
+intervention. It will almost never make a mistake and a modern PC can complete the task in a fraction of a
+second.
+Machine code
+In most computers, individual instructions are stored as machine code with each instruction being given a
+unique number (its operation code or opcode for short). The command to add two numbers together would
+have one opcode; the command to multiply them would have a different opcode, and so on. The simplest
+computers are able to perform any of a handful of different instructions; the more complex computers have
+several hundred to choose from, each with a unique numerical code. Since the computer's memory is able
+to store numbers, it can also store the instruction codes. This leads to the important fact that entire programs
+(which are just lists of these instructions) can be represented as lists of numbers and can themselves be
+manipulated inside the computer in the same way as numeric data. The fundamental concept of storing
+programs in the computer's memory alongside the data they operate on is the crux of the von Neumann, or
+stored program, architecture.[111][112] In some cases, a computer might store some or all of its program in
+memory that is kept separate from the data it operates on. This is called the Harvard architecture after the
+Harvard Mark I computer. Modern von Neumann computers display some traits of the Harvard architecture
+in their designs, such as in CPU caches.
+While it is possible to write computer programs as long lists of numbers (machine language) and while this
+technique was used with many early computers,[h] it is extremely tedious and potentially error-prone to do
+so in practice, especially for complicated programs. Instead, each basic instruction can be given a short
+name that is indicative of its function and easy to remember – a mnemonic such as ADD, SUB, MULT or
+JUMP. These mnemonics are collectively known as a computer's assembly language. Converting programs
+written in assembly language into something the computer can actually understand (machine language) is
+usually done by a computer program called an assembler.
+Programming language
+
+Programming languages provide various ways of specifying
+programs for computers to run. Unlike natural languages,
+programming languages are designed to permit no ambiguity and to
+be concise. They are purely written languages and are often difficult
+to read aloud. They are generally either translated into machine
+code by a compiler or an assembler before being run, or translated
+directly at run time by an interpreter. Sometimes programs are
+executed by a hybrid method of the two techniques.
+Low-level languages
+
+A 1970s punched card containing
+one line from a Fortran program. The
+card reads: "Z(1) = Y + W(1)" and is
+labeled "PROJ039" for identification
+purposes.
+
+Machine languages and the assembly languages that represent them
+(collectively termed low-level programming languages) are
+generally unique to the particular architecture of a computer's central processing unit (CPU). For instance,
+an ARM architecture CPU (such as may be found in a smartphone or a hand-held videogame) cannot
+understand the machine language of an x86 CPU that might be in a PC.[i] Historically a significant number
+of other cpu architectures were created and saw extensive use, notably including the MOS Technology
+6502 and 6510 in addition to the Zilog Z80.
+High-level languages
+Although considerably easier than in machine language, writing long programs in assembly language is
+often difficult and is also error prone. Therefore, most practical programs are written in more abstract highlevel programming languages that are able to express the needs of the programmer more conveniently (and
+thereby help reduce programmer error). High level languages are usually "compiled" into machine
+language (or sometimes into assembly language and then into machine language) using another computer
+program called a compiler.[j] High level languages are less related to the workings of the target computer
+than assembly language, and more related to the language and structure of the problem(s) to be solved by
+the final program. It is therefore often possible to use different compilers to translate the same high level
+language program into the machine language of many different types of computer. This is part of the means
+by which software like video games may be made available for different computer architectures such as
+personal computers and various video game consoles.
+Program design
+Program design of small programs is relatively simple and involves the analysis of the problem, collection
+of inputs, using the programming constructs within languages, devising or using established procedures and
+algorithms, providing data for output devices and solutions to the problem as applicable.[113] As problems
+become larger and more complex, features such as subprograms, modules, formal documentation, and new
+paradigms such as object-oriented programming are encountered.[114] Large programs involving thousands
+of line of code and more require formal software methodologies.[115] The task of developing large software
+systems presents a significant intellectual challenge.[116] Producing software with an acceptably high
+reliability within a predictable schedule and budget has historically been difficult;[117] the academic and
+professional discipline of software engineering concentrates specifically on this challenge.[118]
+Bugs
+
+Errors in computer programs are called "bugs". They may be
+benign and not affect the usefulness of the program, or have only
+subtle effects. However, in some cases they may cause the program
+or the entire system to "hang", becoming unresponsive to input
+such as mouse clicks or keystrokes, to completely fail, or to
+crash.[119] Otherwise benign bugs may sometimes be harnessed for
+malicious intent by an unscrupulous user writing an exploit, code
+designed to take advantage of a bug and disrupt a computer's proper
+execution. Bugs are usually not the fault of the computer. Since
+computers merely execute the instructions they are given, bugs are
+The actual first computer bug, a
+nearly always the result of programmer error or an oversight made
+moth found trapped on a relay of the
+in the program's design.[k] Admiral Grace Hopper, an American
+Harvard Mark II computer
+computer scientist and developer of the first compiler, is credited for
+having first used the term "bugs" in computing after a dead moth
+was found shorting a relay in the Harvard Mark II computer in September 1947.[120]
+
+Networking and the Internet
+Computers have been used to coordinate information between
+multiple locations since the 1950s. The U.S. military's SAGE
+system was the first large-scale example of such a system, which
+led to a number of special-purpose commercial systems such as
+Sabre.[121] In the 1970s, computer engineers at research institutions
+throughout the United States began to link their computers together
+using telecommunications technology. The effort was funded by
+ARPA (now DARPA), and the computer network that resulted was
+called the ARPANET.[122] The technologies that made the Arpanet
+possible spread and evolved.
+In time, the network spread beyond academic and military
+institutions and became known as the Internet. The emergence of
+networking involved a redefinition of the nature and boundaries of
+the computer. Computer operating systems and applications were
+modified to include the ability to define and access the resources of
+other computers on the network, such as peripheral devices, stored information, and the like, as extensions
+of the resources of an individual computer. Initially these facilities were available primarily to people
+working in high-tech environments, but in the 1990s the spread of applications like e-mail and the World
+Wide Web, combined with the development of cheap, fast networking technologies like Ethernet and
+ADSL saw computer networking become almost ubiquitous. In fact, the number of computers that are
+networked is growing phenomenally. A very large proportion of personal computers regularly connect to
+the Internet to communicate and receive information. "Wireless" networking, often utilizing mobile phone
+networks, has meant networking is becoming increasingly ubiquitous even in mobile computing
+environments.
+Visualization of a portion of the
+routes on the Internet
+
+Unconventional computers
+A computer does not need to be electronic, nor even have a processor, nor RAM, nor even a hard disk.
+While popular usage of the word "computer" is synonymous with a personal electronic computer,[l] a
+typical modern definition of a computer is: "A device that computes, especially a programmable [usually]
+
+electronic machine that performs high-speed mathematical or logical operations or that assembles, stores,
+correlates, or otherwise processes information."[123] According to this definition, any device that processes
+information qualifies as a computer.
+
+Future
+There is active research to make computers out of many promising new types of technology, such as optical
+computers, DNA computers, neural computers, and quantum computers. Most computers are universal, and
+are able to calculate any computable function, and are limited only by their memory capacity and operating
+speed. However different designs of computers can give very different performance for particular problems;
+for example quantum computers can potentially break some modern encryption algorithms (by quantum
+factoring) very quickly.
+
+Computer architecture paradigms
+There are many types of computer architectures:
+Quantum computer vs. Chemical computer
+Scalar processor vs. Vector processor
+Non-Uniform Memory Access (NUMA) computers
+Register machine vs. Stack machine
+Harvard architecture vs. von Neumann architecture
+Cellular architecture
+Of all these abstract machines, a quantum computer holds the most promise for revolutionizing
+computing.[124] Logic gates are a common abstraction which can apply to most of the above digital or
+analog paradigms. The ability to store and execute lists of instructions called programs makes computers
+extremely versatile, distinguishing them from calculators. The Church–Turing thesis is a mathematical
+statement of this versatility: any computer with a minimum capability (being Turing-complete) is, in
+principle, capable of performing the same tasks that any other computer can perform. Therefore, any type
+of computer (netbook, supercomputer, cellular automaton, etc.) is able to perform the same computational
+tasks, given enough time and storage capacity.
+
+Artificial intelligence
+A computer will solve problems in exactly the way it is programmed to, without regard to efficiency,
+alternative solutions, possible shortcuts, or possible errors in the code. Computer programs that learn and
+adapt are part of the emerging field of artificial intelligence and machine learning. Artificial intelligence
+based products generally fall into two major categories: rule-based systems and pattern recognition systems.
+Rule-based systems attempt to represent the rules used by human experts and tend to be expensive to
+develop. Pattern-based systems use data about a problem to generate conclusions. Examples of patternbased systems include voice recognition, font recognition, translation and the emerging field of on-line
+marketing.
+
+Professions and organizations
+As the use of computers has spread throughout society, there are an increasing number of careers involving
+computers.
+
+Computer-related professions
+Hardwarerelated
+
+Electrical engineering, Electronic engineering, Computer engineering, Telecommunications
+engineering, Optical engineering, Nanoengineering
+
+Softwarerelated
+
+Computer science, Computer engineering, Desktop publishing, Human–computer interaction,
+Information technology, Information systems, Computational science, Software engineering, Video
+game industry, Web design
+
+The need for computers to work well together and to be able to exchange information has spawned the
+need for many standards organizations, clubs and societies of both a formal and informal nature.
+Organizations
+Standards groups
+
+ANSI, IEC, IEEE, IETF, ISO, W3C
+
+Professional societies
+
+ACM, AIS, IET, IFIP, BCS
+
+Free/open source software groups
+
+Free Software Foundation, Mozilla Foundation, Apache Software Foundation
+
+See also
+Computability theory
+Computer security
+Glossary of computer hardware terms
+History of computer science
+List of computer term etymologies
+List of computer system manufacturers
+
+List of fictional computers
+List of films about computers
+List of pioneers in computer science
+Pulse computation
+TOP500 (list of most powerful computers)
+Unconventional computing
+
+Notes
+a. According to Schmandt-Besserat 1981, these clay containers contained tokens, the total of
+which were the count of objects being transferred. The containers thus served as something
+of a bill of lading or an accounts book. In order to avoid breaking open the containers, first,
+clay impressions of the tokens were placed on the outside of the containers, for the count;
+the shapes of the impressions were abstracted into stylized marks; finally, the abstract marks
+were systematically used as numerals; these numerals were finally formalized as numbers.
+Eventually the marks on the outside of the containers were all that were needed to convey
+the count, and the clay containers evolved into clay tablets with marks for the count.
+Schmandt-Besserat 1999 estimates it took 4000 years.
+b. The Intel 4004 (1971) die was 12 mm2, composed of 2300 transistors; by comparison, the
+Pentium Pro was 306 mm2, composed of 5.5 million transistors.[94]
+c. Most major 64-bit instruction set architectures are extensions of earlier designs. All of the
+architectures listed in this table, except for Alpha, existed in 32-bit forms before their 64-bit
+incarnations were introduced.
+d. The control unit's role in interpreting instructions has varied somewhat in the past. Although
+the control unit is solely responsible for instruction interpretation in most modern computers,
+this is not always the case. Some computers have instructions that are partially interpreted
+by the control unit with further interpretation performed by another device. For example,
+EDVAC, one of the earliest stored-program computers, used a central control unit that
+interpreted only four instructions. All of the arithmetic-related instructions were passed on to
+its arithmetic unit and further decoded there.
+
+e. Instructions often occupy more than one memory address, therefore the program counter
+usually increases by the number of memory locations required to store one instruction.
+f. Flash memory also may only be rewritten a limited number of times before wearing out,
+making it less useful for heavy random access usage.[105]
+g. However, it is also very common to construct supercomputers out of many pieces of cheap
+commodity hardware; usually individual computers connected by networks. These so-called
+computer clusters can often provide supercomputer performance at a much lower cost than
+customized designs. While custom architectures are still used for most of the most powerful
+supercomputers, there has been a proliferation of cluster computers in recent years.[110]
+h. Even some later computers were commonly programmed directly in machine code. Some
+minicomputers like the DEC PDP-8 could be programmed directly from a panel of switches.
+However, this method was usually used only as part of the booting process. Most modern
+computers boot entirely automatically by reading a boot program from some non-volatile
+memory.
+i. However, there is sometimes some form of machine language compatibility between
+different computers. An x86-64 compatible microprocessor like the AMD Athlon 64 is able to
+run most of the same programs that an Intel Core 2 microprocessor can, as well as programs
+designed for earlier microprocessors like the Intel Pentiums and Intel 80486. This contrasts
+with very early commercial computers, which were often one-of-a-kind and totally
+incompatible with other computers.
+j. High level languages are also often interpreted rather than compiled. Interpreted languages
+are translated into machine code on the fly, while running, by another program called an
+interpreter.
+k. It is not universally true that bugs are solely due to programmer oversight. Computer
+hardware may fail or may itself have a fundamental problem that produces unexpected
+results in certain situations. For instance, the Pentium FDIV bug caused some Intel
+microprocessors in the early 1990s to produce inaccurate results for certain floating point
+division operations. This was caused by a flaw in the microprocessor design and resulted in
+a partial recall of the affected devices.
+l. According to the Shorter Oxford English Dictionary (6th ed, 2007), the word computer dates
+back to the mid 17th century, when it referred to "A person who makes calculations;
+specifically a person employed for this in an observatory etc."
+
+References
+1. Evans 2018, p. 23.
+2. Smith 2013, p. 6.
+3. "computer (n.)" (http://www.etymonline.com/index.php?term=computer). Online Etymology
+Dictionary. Archived (https://web.archive.org/web/20161116065135/http://www.etymonline.c
+om/index.php?term=computer) from the original on 16 November 2016. Retrieved 19 August
+2021.
+4. Robson, Eleanor (2008). Mathematics in Ancient Iraq. p. 5. ISBN 978-0-691-09182-2.:
+calculi were in use in Iraq for primitive accounting systems as early as 3200–3000 BCE, with
+commodity-specific counting representation systems. Balanced accounting was in use by
+3000–2350 BCE, and a sexagesimal number system was in use 2350–2000 BCE.
+5. Flegg, Graham. (1989). Numbers through the ages. Houndmills, Basingstoke, Hampshire:
+Macmillan Education. ISBN 0-333-49130-0. OCLC 24660570 (https://www.worldcat.org/oclc/
+24660570).
+
+6. The Antikythera Mechanism Research Project (http://www.antikythera-mechanism.gr/project/
+general/the-project.html) Archived (https://web.archive.org/web/20080428070448/http://www.
+antikythera-mechanism.gr/project/general/the-project.html) 28 April 2008 at the Wayback
+Machine, The Antikythera Mechanism Research Project. Retrieved 1 July 2007.
+7. Marchant, Jo (1 November 2006). "In search of lost time" (https://doi.org/10.1038%2F444534
+a). Nature. 444 (7119): 534–538. Bibcode:2006Natur.444..534M (https://ui.adsabs.harvard.e
+du/abs/2006Natur.444..534M). doi:10.1038/444534a (https://doi.org/10.1038%2F444534a).
+PMID 17136067 (https://pubmed.ncbi.nlm.nih.gov/17136067). S2CID 4305761 (https://api.se
+manticscholar.org/CorpusID:4305761).
+8. G. Wiet, V. Elisseeff, P. Wolff, J. Naudu (1975). History of Mankind, Vol 3: The Great
+medieval Civilisations, p. 649. George Allen & Unwin Ltd, UNESCO.
+9. Fuat Sezgin "Catalogue of the Exhibition of the Institute for the History of Arabic-Islamic
+Science (at the Johann Wolfgang Goethe University", Frankfurt, Germany) Frankfurt Book
+Fair 2004, pp. 35 & 38.
+10. Charette, François (2006). "Archaeology: High tech from Ancient Greece" (https://doi.org/10.
+1038%2F444551a). Nature. 444 (7119): 551–552. Bibcode:2006Natur.444..551C (https://ui.
+adsabs.harvard.edu/abs/2006Natur.444..551C). doi:10.1038/444551a (https://doi.org/10.103
+8%2F444551a). PMID 17136077 (https://pubmed.ncbi.nlm.nih.gov/17136077).
+S2CID 33513516 (https://api.semanticscholar.org/CorpusID:33513516).
+11. Bedini, Silvio A.; Maddison, Francis R. (1966). "Mechanical Universe: The Astrarium of
+Giovanni de' Dondi". Transactions of the American Philosophical Society. 56 (5): 1–69.
+doi:10.2307/1006002 (https://doi.org/10.2307%2F1006002). JSTOR 1006002 (https://www.j
+stor.org/stable/1006002).
+12. Price, Derek de S. (1984). "A History of Calculating Machines". IEEE Micro. 4 (1): 22–52.
+doi:10.1109/MM.1984.291305 (https://doi.org/10.1109%2FMM.1984.291305).
+13. Őren, Tuncer (2001). "Advances in Computer and Information Sciences: From Abacus to
+Holonic Agents" (http://www.site.uottawa.ca/~oren/pubs/pubs-2001-02-Tubitak.pdf) (PDF).
+Turk J Elec Engin. 9 (1): 63–70. Archived (https://web.archive.org/web/20090915033859/htt
+p://www.site.uottawa.ca/~oren/pubs/pubs-2001-02-Tubitak.pdf) (PDF) from the original on 15
+September 2009. Retrieved 21 April 2016.
+14. Donald Routledge Hill (1985). "Al-Biruni's mechanical calendar", Annals of Science 42,
+pp. 139–163.
+15. "The Writer Automaton, Switzerland" (https://web.archive.org/web/20150220154407/http://w
+ww.chonday.com/Videos/the-writer-automaton). chonday.com. 11 July 2013. Archived from
+the original (http://www.chonday.com/Videos/the-writer-automaton) on 20 February 2015.
+Retrieved 28 January 2015.
+16. Ray Girvan, "The revealed grace of the mechanism: computing after Babbage" (http://www.s
+cientific-computing.com/scwmayjun03computingmachines.html) Archived (https://web.archiv
+e.org/web/20121103094710/http://www.scientific-computing.com/scwmayjun03computingm
+achines.html) 3 November 2012 at the Wayback Machine, Scientific Computing World,
+May/June 2003
+17. Halacy, Daniel Stephen (1970). Charles Babbage, Father of the Computer (https://archive.or
+g/details/charlesbabbagefa00hala). Crowell-Collier Press. ISBN 978-0-02-741370-0.
+18. O'Connor, John J.; Robertson, Edmund F. (1998). "Charles Babbage" (https://web.archive.or
+g/web/20060616002258/http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Babbage.
+html). MacTutor History of Mathematics archive. School of Mathematics and Statistics,
+University of St Andrews, Scotland. Archived from the original (http://www-gap.dcs.st-and.ac.
+uk/~history/Mathematicians/Babbage.html) on 16 June 2006. Retrieved 14 June 2006.
+
+19. "Babbage" (https://web.archive.org/web/20120807185334/http://www.sciencemuseum.org.u
+k/onlinestuff/stories/babbage.aspx?page=5). Online stuff. Science Museum. 19 January
+2007. Archived from the original (http://www.sciencemuseum.org.uk/onlinestuff/stories/babba
+ge.aspx?page=5) on 7 August 2012. Retrieved 1 August 2012.
+20. Graham-Cumming, John (23 December 2010). "Let's build Babbage's ultimate mechanical
+computer" (https://www.newscientist.com/article/mg20827915.500-lets-build-babbages-ultim
+ate-mechanical-computer.html). opinion. New Scientist. Archived (https://web.archive.org/we
+b/20120805050111/http://www.newscientist.com/article/mg20827915.500-lets-build-babbag
+es-ultimate-mechanical-computer.html) from the original on 5 August 2012. Retrieved
+1 August 2012.
+21. L. Torres Quevedo. Ensayos sobre Automática – Su definicion. Extension teórica de sus
+aplicaciones, Revista de la Academia de Ciencias Exacta, Revista 12, pp. 391–418, 1914.
+22. Torres Quevedo. L. (1915). "Essais sur l'Automatique - Sa définition. Etendue théorique de
+ses applications" (https://diccan.com/dicoport/Torres.htm), Revue Génerale des Sciences
+Pures et Appliquées, vol. 2, pp. 601–611.
+23. Randell 1982, p. 6, 11–13.
+24. B. Randell. Electromechanical Calculating Machine, The Origins of Digital Computers,
+pp.109-120, 1982.
+25. Bromley 1990.
+26. The Modern History of Computing (http://plato.stanford.edu/entries/computing-history/).
+Stanford Encyclopedia of Philosophy. 2017. Archived (https://web.archive.org/web/2010071
+2072148/http://plato.stanford.edu/entries/computing-history/) from the original on 12 July
+2010. Retrieved 7 January 2014.
+27. Zuse, Horst. "Part 4: Konrad Zuse's Z1 and Z3 Computers" (https://web.archive.org/web/200
+80601210541/http://www.epemag.com/zuse/part4a.htm). The Life and Work of Konrad Zuse.
+EPE Online. Archived from the original (http://www.epemag.com/zuse/part4a.htm) on 1 June
+2008. Retrieved 17 June 2008.
+28. Bellis, Mary (15 May 2019) [First published 2006 at
+inventors.about.com/library/weekly/aa050298.htm]. "Biography of Konrad Zuse, Inventor and
+Programmer of Early Computers" (https://www.thoughtco.com/konrad-zuse-modern-compute
+r-4078237). thoughtco.com. Dotdash Meredith. Archived (https://web.archive.org/web/20201
+213003237/https://www.thoughtco.com/konrad-zuse-modern-computer-4078237) from the
+original on 13 December 2020. Retrieved 3 February 2021. "Konrad Zuse earned the
+semiofficial title of 'inventor of the modern computer'"
+29. "Who is the Father of the Computer?" (https://www.computerhope.com/issues/ch001335.ht
+m). computerhope.com.
+30. Zuse, Konrad (2010) [1984]. The Computer – My Life Translated by McKenna, Patricia and
+Ross, J. Andrew from: Der Computer, mein Lebenswerk (1984). Berlin/Heidelberg: SpringerVerlag. ISBN 978-3-642-08151-4.
+31. Salz Trautman, Peggy (20 April 1994). "A Computer Pioneer Rediscovered, 50 Years On" (ht
+tps://web.archive.org/web/20161104051054/http://www.nytimes.com/1994/04/20/news/20ihtzuse.html). The New York Times. Archived from the original (https://www.nytimes.com/1994/
+04/20/news/20iht-zuse.html) on 4 November 2016. Retrieved 15 February 2017.
+32. Zuse, Konrad (1993). Der Computer. Mein Lebenswerk (in German) (3rd ed.). Berlin:
+Springer-Verlag. p. 55. ISBN 978-3-540-56292-4.
+33. "Crash! The Story of IT: Zuse" (https://web.archive.org/web/20160918203643/https://goremot
+esupport.com/blog/crash-the-story-of-it-zuse/). Archived from the original (https://goremotesu
+pport.com/blog/crash-the-story-of-it-zuse) on 18 September 2016. Retrieved 1 June 2016.
+
+34. Rojas, R. (1998). "How to make Zuse's Z3 a universal computer". IEEE Annals of the History
+of Computing. 20 (3): 51–54. doi:10.1109/85.707574 (https://doi.org/10.1109%2F85.70757
+4). S2CID 14606587 (https://api.semanticscholar.org/CorpusID:14606587).
+35. Rojas, Raúl. "How to Make Zuse's Z3 a Universal Computer" (http://www.inf.fu-berlin.de/use
+rs/rojas/1997/Universal_Computer.pdf) (PDF). fu-berlin.de. Archived (https://web.archive.org/
+web/20170809123935/http://www.inf.fu-berlin.de/users/rojas/1997/Universal_Computer.pdf)
+(PDF) from the original on 9 August 2017. Retrieved 28 September 2015.
+36. O'Regan, Gerard (2010). A Brief History of Computing. Springer Nature. p. 65. ISBN 9783030665999.
+37. "notice". Des Moines Register. 15 January 1941.
+38. Arthur W. Burks (1989). The First Electronic Computer (https://books.google.com/books?id=
+_Zja6hoP4psC). ISBN 0472081047. Retrieved 1 June 2019.
+39. Copeland, Jack (2006). Colossus: The Secrets of Bletchley Park's Codebreaking
+Computers. Oxford: Oxford University Press. pp. 101–115. ISBN 978-0-19-284055-4.
+40. Miller, Joe (10 November 2014). "The woman who cracked Enigma cyphers" (https://www.bb
+c.com/news/technology-29840653). BBC News. Archived (https://web.archive.org/web/2014
+1110140239/https://www.bbc.com/news/technology-29840653) from the original on 10
+November 2014. Retrieved 14 October 2018.
+41. Bearne, Suzanne (24 July 2018). "Meet the female codebreakers of Bletchley Park" (https://
+www.theguardian.com/careers/2018/jul/24/meet-the-female-codebreakers-of-bletchley-park).
+The Guardian. Archived (https://web.archive.org/web/20190207020226/https://www.theguar
+dian.com/careers/2018/jul/24/meet-the-female-codebreakers-of-bletchley-park) from the
+original on 7 February 2019. Retrieved 14 October 2018.
+42. "Bletchley's code-cracking Colossus" (http://news.bbc.co.uk/2/hi/technology/8492762.stm).
+BBC. Archived (https://web.archive.org/web/20100204035124/http://news.bbc.co.uk/2/hi/tec
+hnology/8492762.stm) from the original on 4 February 2010. Retrieved 24 November 2021.
+43. "Colossus – The Rebuild Story" (https://web.archive.org/web/20150418230306/http://www.tn
+moc.org/colossus-rebuild-story). The National Museum of Computing. Archived from the
+original (http://www.tnmoc.org/colossus-rebuild-story) on 18 April 2015. Retrieved 7 January
+2014.
+44. Randell, Brian; Fensom, Harry; Milne, Frank A. (15 March 1995). "Obituary: Allen Coombs"
+(https://www.independent.co.uk/news/people/obituary-allen-coombs-1611270.html). The
+Independent. Archived (https://web.archive.org/web/20120203042657/http://www.independe
+nt.co.uk/news/people/obituary-allen-coombs-1611270.html) from the original on 3 February
+2012. Retrieved 18 October 2012.
+45. Fensom, Jim (8 November 2010). "Harry Fensom obituary" (https://www.theguardian.com/th
+eguardian/2010/nov/08/harry-fensom-obituary). The Guardian. Archived (https://web.archive.
+org/web/20130917220225/http://www.theguardian.com/theguardian/2010/nov/08/harry-fens
+om-obituary) from the original on 17 September 2013. Retrieved 17 October 2012.
+46. John Presper Eckert Jr. and John W. Mauchly, Electronic Numerical Integrator and
+Computer, United States Patent Office, US Patent 3,120,606, filed 26 June 1947, issued 4
+February 1964, and invalidated 19 October 1973 after court ruling on Honeywell v. Sperry
+Rand.
+47. Evans 2018, p. 39.
+48. Light 1999, p. 459.
+49. "Generations of Computer" (https://web.archive.org/web/20150702211455/http://www.techiw
+arehouse.com/engine/a046ee08/Generations-of-Computer/). techiwarehouse.com. Archived
+from the original (http://www.techiwarehouse.com/engine/a046ee08/Generations-of-Comput
+er) on 2 July 2015. Retrieved 7 January 2014.
+
+50. Turing, A. M. (1937). "On Computable Numbers, with an Application to the
+Entscheidungsproblem". Proceedings of the London Mathematical Society. 2. 42 (1): 230–
+265. doi:10.1112/plms/s2-42.1.230 (https://doi.org/10.1112%2Fplms%2Fs2-42.1.230).
+S2CID 73712 (https://api.semanticscholar.org/CorpusID:73712).
+51. Copeland, Jack (2004). The Essential Turing. p. 22: "von Neumann ... firmly emphasized to
+me, and to others I am sure, that the fundamental conception is owing to Turing—insofar as
+not anticipated by Babbage, Lovelace and others." Letter by Stanley Frankel to Brian
+Randell, 1972.
+52. Enticknap, Nicholas (Summer 1998). "Computing's Golden Jubilee" (https://web.archive.org/
+web/20120109142655/http://www.cs.man.ac.uk/CCS/res/res20.htm#d). Resurrection (20).
+ISSN 0958-7403 (https://www.worldcat.org/issn/0958-7403). Archived from the original (htt
+p://www.cs.man.ac.uk/CCS/res/res20.htm#d) on 9 January 2012. Retrieved 19 April 2008.
+53. "Early computers at Manchester University" (https://web.archive.org/web/20170828010743/h
+ttp://www.cs.man.ac.uk/CCS/res/res04.htm#g). Resurrection. 1 (4). Summer 1992.
+ISSN 0958-7403 (https://www.worldcat.org/issn/0958-7403). Archived from the original (htt
+p://www.cs.man.ac.uk/CCS/res/res04.htm#g) on 28 August 2017. Retrieved 7 July 2010.
+54. "Early Electronic Computers (1946–51)" (https://web.archive.org/web/20090105031620/htt
+p://www.computer50.org/mark1/contemporary.html). University of Manchester. Archived from
+the original (http://www.computer50.org/mark1/contemporary.html) on 5 January 2009.
+Retrieved 16 November 2008.
+55. Napper, R. B. E. "Introduction to the Mark 1" (https://web.archive.org/web/20081026080604/
+http://www.computer50.org/mark1/mark1intro.html). The University of Manchester. Archived
+from the original (http://www.computer50.org/mark1/mark1intro.html) on 26 October 2008.
+Retrieved 4 November 2008.
+56. "Our Computer Heritage Pilot Study: Deliveries of Ferranti Mark I and Mark I Star computers"
+(https://web.archive.org/web/20161211201840/http://www.ourcomputerheritage.org/wp/).
+Computer Conservation Society. Archived from the original (http://www.ourcomputerheritage.
+org/wp/) on 11 December 2016. Retrieved 9 January 2010.
+57. Lavington, Simon. "A brief history of British computers: the first 25 years (1948–1973)" (http
+s://web.archive.org/web/20100705050757/http://www.bcs.org/server.php). British Computer
+Society. Archived from the original (http://www.bcs.org/server.php?) on 5 July 2010.
+Retrieved 10 January 2010.
+58. Lee, Thomas H. (2003). The Design of CMOS Radio-Frequency Integrated Circuits (https://w
+eb.archive.org/web/20191209032130/https://web.stanford.edu/class/archive/ee/ee214/ee21
+4.1032/Handouts/HO2.pdf) (PDF). Cambridge University Press. ISBN 978-1139643771.
+Archived from the original (https://web.stanford.edu/class/archive/ee/ee214/ee214.1032/Han
+douts/HO2.pdf) (PDF) on 9 December 2019. Retrieved 31 July 2019.
+59. Puers, Robert; Baldi, Livio; Voorde, Marcel Van de; Nooten, Sebastiaan E. van (2017).
+Nanoelectronics: Materials, Devices, Applications, 2 Volumes (https://books.google.com/boo
+ks?id=JOqVDgAAQBAJ&pg=PA14). John Wiley & Sons. p. 14. ISBN 978-3527340538.
+Retrieved 31 July 2019.
+60. Moskowitz, Sanford L. (2016). Advanced Materials Innovation: Managing Global Technology
+in the 21st century (https://books.google.com/books?id=2STRDAAAQBAJ&pg=PA165).
+John Wiley & Sons. pp. 165–167. ISBN 978-0470508923. Retrieved 28 August 2019.
+61. Lavington 1998, pp. 34–35.
+
+62. Cooke-Yarborough, E. H. (June 1998). "Some early transistor applications in the UK" (http
+s://ieeexplore.ieee.org/document/689507). Engineering Science & Education Journal. 7 (3):
+100–106. doi:10.1049/esej:19980301 (https://doi.org/10.1049%2Fesej%3A19980301).
+ISSN 0963-7346 (https://www.worldcat.org/issn/0963-7346). Archived (https://web.archive.or
+g/web/20201108041817/https://ieeexplore.ieee.org/document/689507) from the original on 8
+November 2020. Retrieved 7 June 2009. (subscription required)
+63. Cooke-Yarborough, E.H. (1957). Introduction to Transistor Circuits. Edinburgh: Oliver and
+Boyd. p. 139.
+64. "1960: Metal Oxide Semiconductor (MOS) Transistor Demonstrated" (https://www.computerh
+istory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/). The
+Silicon Engine: A Timeline of Semiconductors in Computers. Computer History Museum.
+Archived (https://web.archive.org/web/20191027045554/https://www.computerhistory.org/sili
+conengine/metal-oxide-semiconductor-mos-transistor-demonstrated/) from the original on 27
+October 2019. Retrieved 31 August 2019.
+65. Motoyoshi, M. (2009). "Through-Silicon Via (TSV)". Proceedings of the IEEE. 97 (1): 43–48.
+doi:10.1109/JPROC.2008.2007462 (https://doi.org/10.1109%2FJPROC.2008.2007462).
+ISSN 0018-9219 (https://www.worldcat.org/issn/0018-9219). S2CID 29105721 (https://api.se
+manticscholar.org/CorpusID:29105721).
+66. Young, Ian (12 December 2018). "Transistors Keep Moore's Law Alive" (https://www.eetime
+s.com/author.asp?section_id=36&doc_id=1334068). EETimes. Archived (https://web.archiv
+e.org/web/20190924091622/https://www.eetimes.com/author.asp?section_id=36) from the
+original on 24 September 2019. Retrieved 18 July 2019.
+67. Laws, David (4 December 2013). "Who Invented the Transistor?" (https://www.computerhisto
+ry.org/atchm/who-invented-the-transistor/). Computer History Museum. Archived (https://web.
+archive.org/web/20131213221601/https://www.computerhistory.org/atchm/who-invented-thetransistor/) from the original on 13 December 2013. Retrieved 20 July 2019.
+68. Hittinger, William C. (1973). "Metal-Oxide-Semiconductor Technology". Scientific American.
+229 (2): 48–59. Bibcode:1973SciAm.229b..48H (https://ui.adsabs.harvard.edu/abs/1973Sci
+Am.229b..48H). doi:10.1038/scientificamerican0873-48 (https://doi.org/10.1038%2Fscientific
+american0873-48). ISSN 0036-8733 (https://www.worldcat.org/issn/0036-8733).
+JSTOR 24923169 (https://www.jstor.org/stable/24923169).
+69. Malmstadt, Howard V.; Enke, Christie G.; Crouch, Stanley R. (1994). Making the Right
+Connections: Microcomputers and Electronic Instrumentation (https://books.google.com/boo
+ks?id=lyJGAQAAIAAJ). American Chemical Society. p. 389. ISBN 978-0841228610.
+Retrieved 28 August 2019. "The relative simplicity and low power requirements of MOSFETs
+have fostered today's microcomputer revolution."
+70. Fossum, Jerry G.; Trivedi, Vishal P. (2013). Fundamentals of Ultra-Thin-Body MOSFETs and
+FinFETs (https://books.google.com/books?id=zZJfAAAAQBAJ&pg=PR7). Cambridge
+University Press. p. vii. ISBN 978-1107434493. Retrieved 28 August 2019.
+71. Marriott, J.W. (10 June 2019). "Remarks by Director Iancu at the 2019 International
+Intellectual Property Conference" (https://web.archive.org/web/20191217200937/https://ww
+w.uspto.gov/about-us/news-updates/remarks-director-iancu-2019-international-intellectual-p
+roperty-conference). United States Patent and Trademark Office. Archived from the original
+(https://www.uspto.gov/about-us/news-updates/remarks-director-iancu-2019-international-int
+ellectual-property-conference) on 17 December 2019. Retrieved 20 July 2019.
+72. "Dawon Kahng" (https://www.invent.org/inductees/dawon-kahng). National Inventors Hall of
+Fame. Archived (https://web.archive.org/web/20191027062651/https://www.invent.org/induct
+ees/dawon-kahng) from the original on 27 October 2019. Retrieved 27 June 2019.
+
+73. "Martin Atalla in Inventors Hall of Fame, 2009" (https://www.invent.org/inductees/martin-johnm-atalla). Archived (https://web.archive.org/web/20190919204631/https://www.invent.org/ind
+uctees/martin-john-m-atalla) from the original on 19 September 2019. Retrieved 21 June
+2013.
+74. Triumph of the MOS Transistor (https://web.archive.org/web/20210818215224/https://www.y
+outube.com/watch?v=q6fBEjf9WPw). Computer History Museum. 6 August 2010. Archived
+from the original (https://www.youtube.com/watch?v=q6fBEjf9WPw) on 18 August 2021.
+Retrieved 21 July 2019 – via YouTube.
+75. "The Hapless Tale of Geoffrey Dummer" (http://www.epn-online.com/page/22909/the-haples
+s-tale-of-geoffrey-dummer-this-is-the-sad-.html) Archived (https://web.archive.org/web/20130
+511181443/http://www.epn-online.com/page/22909/the-hapless-tale-of-geoffrey-dummer-thi
+s-is-the-sad-.html) 11 May 2013 at the Wayback Machine, (n.d.), (HTML), Electronic Product
+News, accessed 8 July 2008.
+76. Kilby, Jack (2000). "Nobel lecture" (http://nobelprize.org/nobel_prizes/physics/laureates/200
+0/kilby-lecture.pdf) (PDF). Stockholm: Nobel Foundation. Archived (https://web.archive.org/w
+eb/20080529024119/http://nobelprize.org/nobel_prizes/physics/laureates/2000/kilby-lecture.
+pdf) (PDF) from the original on 29 May 2008. Retrieved 15 May 2008.
+77. The Chip that Jack Built (http://www.ti.com/corp/docs/kilbyctr/jackbuilt.shtml) Archived (http
+s://web.archive.org/web/20150501073820/http://www.ti.com/corp/docs/kilbyctr/jackbuilt.shtm
+l) 1 May 2015 at the Wayback Machine, (c. 2008), (HTML), Texas Instruments, Retrieved 29
+May 2008.
+78. Jack S. Kilby, Miniaturized Electronic Circuits, United States Patent Office, US Patent
+3,138,743, filed 6 February 1959, issued 23 June 1964.
+79. Winston, Brian (1998). Media Technology and Society: A History : From the Telegraph to the
+Internet (https://books.google.com/books?id=gfeCXlElJTwC&pg=PA221). Routledge. p. 221.
+ISBN 978-0-415-14230-4. Retrieved 6 June 2020.
+80. Saxena, Arjun N. (2009). Invention of Integrated Circuits: Untold Important Facts (https://book
+s.google.com/books?id=-3lpDQAAQBAJ&pg=PA140). World Scientific. p. 140. ISBN 9789812814456. Retrieved 28 August 2019.
+81. "Integrated circuits" (https://www.hq.nasa.gov/alsj/ic-pg3.html). NASA. Archived (https://web.
+archive.org/web/20190721173218/https://www.hq.nasa.gov/alsj/ic-pg3.html) from the
+original on 21 July 2019. Retrieved 13 August 2019.
+82. Robert Noyce's Unitary circuit, US patent 2981877 (https://worldwide.espacenet.com/textdo
+c?DB=EPODOC&IDX=US2981877), "Semiconductor device-and-lead structure", issued
+1961-04-25, assigned to Fairchild Semiconductor Corporation.
+83. "1959: Practical Monolithic Integrated Circuit Concept Patented" (https://www.computerhistor
+y.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/). Computer
+History Museum. Archived (https://web.archive.org/web/20191024144046/https://www.comp
+uterhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/) from
+the original on 24 October 2019. Retrieved 13 August 2019.
+84. Lojek, Bo (2007). History of Semiconductor Engineering (https://archive.org/details/historyse
+micondu00loje_697). Springer Science & Business Media. p. 120 (https://archive.org/details/
+historysemicondu00loje_697/page/n128). ISBN 978-3540342588.
+85. Bassett, Ross Knox (2007). To the Digital Age: Research Labs, Start-up Companies, and the
+Rise of MOS Technology (https://books.google.com/books?id=UUbB3d2UnaAC&pg=PA46).
+Johns Hopkins University Press. p. 46. ISBN 978-0801886393. Retrieved 31 July 2019.
+86. Huff, Howard R.; Tsuya, H.; Gösele, U. (1998). Silicon Materials Science and Technology:
+Proceedings of the Eighth International Symposium on Silicon Materials Science and
+Technology (https://books.google.com/books?id=SnQfAQAAIAAJ&pg=PA181).
+Electrochemical Society. pp. 181–182. ISBN 978-1566771931. Retrieved 28 August 2019.
+
+87. Kuo, Yue (1 January 2013). "Thin Film Transistor Technology—Past, Present, and Future" (h
+ttps://www.electrochem.org/dl/interface/spr/spr13/spr13_p055_061.pdf) (PDF). The
+Electrochemical Society Interface. 22 (1): 55–61. Bibcode:2013ECSIn..22a..55K (https://ui.a
+dsabs.harvard.edu/abs/2013ECSIn..22a..55K). doi:10.1149/2.F06131if (https://doi.org/10.11
+49%2F2.F06131if). ISSN 1064-8208 (https://www.worldcat.org/issn/1064-8208). Archived (ht
+tps://web.archive.org/web/20170829042321/http://www.electrochem.org/dl/interface/spr/spr1
+3/spr13_p055_061.pdf) (PDF) from the original on 29 August 2017. Retrieved 31 July 2019.
+88. "Tortoise of Transistors Wins the Race – CHM Revolution" (https://www.computerhistory.org/
+revolution/digital-logic/12/279). Computer History Museum. Archived (https://web.archive.or
+g/web/20200310142421/https://www.computerhistory.org/revolution/digital-logic/12/279)
+from the original on 10 March 2020. Retrieved 22 July 2019.
+89. "1964 – First Commercial MOS IC Introduced" (http://www.computerhistory.org/semiconduct
+or/timeline/1964-Commecial.html). Computer History Museum. Archived (https://web.archive.
+org/web/20151222203215/http://www.computerhistory.org/semiconductor/timeline/1964-Co
+mmecial.html) from the original on 22 December 2015. Retrieved 31 July 2019.
+90. "1968: Silicon Gate Technology Developed for ICs" (https://www.computerhistory.org/silicon
+engine/silicon-gate-technology-developed-for-ics/). Computer History Museum. Archived (htt
+ps://web.archive.org/web/20200729145834/https://www.computerhistory.org/siliconengine/si
+licon-gate-technology-developed-for-ics/) from the original on 29 July 2020. Retrieved
+22 July 2019.
+91. "1971: Microprocessor Integrates CPU Function onto a Single Chip" (https://www.computerh
+istory.org/siliconengine/microprocessor-integrates-cpu-function-onto-a-single-chip/).
+Computer History Museum. Archived (https://web.archive.org/web/20210812104243/https://
+www.computerhistory.org/siliconengine/microprocessor-integrates-cpu-function-onto-a-singl
+e-chip/) from the original on 12 August 2021. Retrieved 22 July 2019.
+92. Colinge, Jean-Pierre; Greer, James C. (2016). Nanowire Transistors: Physics of Devices
+and Materials in One Dimension (https://books.google.com/books?id=FvjUCwAAQBAJ&pg=
+PA2). Cambridge University Press. p. 2. ISBN 978-1107052406. Retrieved 31 July 2019.
+93. "Intel's First Microprocessor—the Intel 4004" (https://web.archive.org/web/20080513221700/
+http://www.intel.com/museum/archives/4004.htm). Intel Corp. November 1971. Archived from
+the original (http://www.intel.com/museum/archives/4004.htm) on 13 May 2008. Retrieved
+17 May 2008.
+94. Patterson, David; Hennessy, John (1998). Computer Organization and Design (https://archiv
+e.org/details/computerorganiz000henn). San Francisco: Morgan Kaufmann. pp. 27–39 (http
+s://archive.org/details/computerorganiz000henn/page/27). ISBN 978-1-55860-428-5.
+95. Federico Faggin, The Making of the First Microprocessor (http://ieeexplore.ieee.org/stamp/st
+amp.jsp?arnumber=4776530) Archived (https://web.archive.org/web/20191027043745/http
+s://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4776530) 27 October 2019 at the
+Wayback Machine, IEEE Solid-State Circuits Magazine, Winter 2009, IEEE Xplore
+96. "7 dazzling smartphone improvements with Qualcomm's Snapdragon 835 chip" (https://ww
+w.networkworld.com/article/3154386/7-dazzling-smartphone-improvements-with-qualcomms
+-snapdragon-835-chip.html). 3 January 2017. Archived (https://web.archive.org/web/201909
+30224934/https://www.networkworld.com/article/3154386/7-dazzling-smartphone-improvem
+ents-with-qualcomms-snapdragon-835-chip.html) from the original on 30 September 2019.
+Retrieved 5 April 2019.
+97. Chartier, David (23 December 2008). "Global notebook shipments finally overtake desktops"
+(https://arstechnica.com/uncategorized/2008/12/global-notebook-shipments-finally-overtakedesktops/). Ars Technica. Archived (https://web.archive.org/web/20170704180604/https://ars
+technica.com/uncategorized/2008/12/global-notebook-shipments-finally-overtake-desktops/)
+from the original on 4 July 2017. Retrieved 14 June 2017.
+
+98. IDC (25 July 2013). "Growth Accelerates in the Worldwide Mobile Phone and Smartphone
+Markets in the Second Quarter, According to IDC" (https://web.archive.org/web/2014062602
+2208/http://www.idc.com/getdoc.jsp?containerId=prUS24239313). Archived from the original
+(http://www.idc.com/getdoc.jsp?containerId=prUS24239313) on 26 June 2014.
+99. "Google Books Ngram Viewer" (https://books.google.com/ngrams/graph?content=Minicomp
+uter&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1;,Minicompu
+ter;,c0). books.google.com.
+100. "Google Books Ngram Viewer" (https://books.google.com/ngrams/graph?content=Microcom
+puter&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1;,Microcom
+puter;,c0). books.google.com.
+101. "Google Books Ngram Viewer" (https://books.google.com/ngrams/graph?content=Home+co
+mputer&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1;,Home+
+computer;,c0). books.google.com.
+102. "Google Books Ngram Viewer" (https://books.google.com/ngrams/graph?content=Multimedi
+a+computer&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1;,Mu
+ltimedia+computer;,c0). books.google.com.
+103. David J. Eck (2000). The Most Complex Machine: A Survey of Computers and Computing. A
+K Peters, Ltd. p. 54. ISBN 978-1-56881-128-4.
+104. Erricos John Kontoghiorghes (2006). Handbook of Parallel Computing and Statistics. CRC
+Press. p. 45. ISBN 978-0-8247-4067-2.
+105. Verma & Mielke 1988.
+106. Donald Eadie (1968). Introduction to the Basic Computer. Prentice-Hall. p. 12.
+107. Arpad Barna; Dan I. Porat (1976). Introduction to Microcomputers and the Microprocessors
+(https://archive.org/details/introductiontomi0000barn/page/85). Wiley. p. 85 (https://archive.or
+g/details/introductiontomi0000barn/page/85). ISBN 978-0-471-05051-3.
+108. Jerry Peek; Grace Todino; John Strang (2002). Learning the UNIX Operating System: A
+Concise Guide for the New User (https://archive.org/details/learningunixoper00jerr/page/13
+0). O'Reilly. p. 130 (https://archive.org/details/learningunixoper00jerr/page/130). ISBN 978-0596-00261-9.
+109. Gillian M. Davis (2002). Noise Reduction in Speech Applications. CRC Press. p. 111.
+ISBN 978-0-8493-0949-6.
+110. TOP500 2006, p. .
+111. Cragon, Harvey (2000). Computer Architecture and Implementation (https://books.google.co
+m/books?id=_ykfBAWBkxoC). Cambridge University Press. p. 5. ISBN 978-0521651684.
+Archived (https://web.archive.org/web/20220730093353/https://www.google.com/books/editi
+on/Computer_Architecture_and_Implementation/_ykfBAWBkxoC) from the original on 30
+July 2022. Retrieved 10 June 2022.
+112. Xu, Zhiwei; Zhang, Jialin (2021). Computational Thinking: A Perspective on Computer
+Science (https://books.google.com/books?id=s2RXEAAAQBAJ). Singapore: Springer. p. 60.
+ISBN 978-9811638480. Archived (https://web.archive.org/web/20220730093353/https://ww
+w.google.com/books/edition/Computational_Thinking_A_Perspective_on/s2RXEAAAQBAJ)
+from the original on 30 July 2022. Retrieved 10 June 2022. "It is called the stored program
+architecture or stored program model, also known as the von Neumann architecture. We will
+use these terms interchangeably."
+113. Ronald J. Leach (27 January 2016). Introduction to Software Engineering (https://books.goo
+gle.com/books?id=8W2mCwAAQBAJ). CRC Press. p. 11. ISBN 978-1-4987-0528-8.
+Retrieved 26 November 2022.
+114. Hong Zhu (22 March 2005). Software Design Methodology: From Principles to Architectural
+Styles (https://books.google.com/books?id=rqRVbb0SKjEC). Elsevier. pp. 47–72. ISBN 9780-08-045496-2. Retrieved 26 November 2022.
+
+115. Ronald J. Leach (27 January 2016). Introduction to Software Engineering (https://books.goo
+gle.com/books?id=8W2mCwAAQBAJ). CRC Press. p. 56. ISBN 978-1-4987-0528-8.
+Retrieved 26 November 2022.
+116. John Knight (12 January 2012). Fundamentals of Dependable Computing for Software
+Engineers (https://books.google.com/books?id=fn06DwAAQBAJ). CRC Press. p. 186.
+ISBN 978-1-4665-1821-6. Retrieved 26 November 2022.
+117. Frederick P. Brooks (Jr.) (1975). The Mythical Man-month: Essays on Software Engineering
+(https://books.google.com/books?id=gWgPAQAAMAAJ). Addison-Wesley Publishing
+Company. ISBN 978-0-201-00650-6. Retrieved 26 November 2022.
+118. Ian Sommerville (2007). Software Engineering (https://books.google.com/books?id=B7idKfL
+0H64C). Pearson Education. pp. 4–17. ISBN 978-0-321-31379-9. Retrieved 26 November
+2022.
+119. "Why do computers crash?" (https://www.scientificamerican.com/article/why-do-computers-c
+rash/). Scientific American. Archived (https://web.archive.org/web/20180501093613/https://w
+ww.scientificamerican.com/article/why-do-computers-crash/) from the original on 1 May
+2018. Retrieved 3 March 2022.
+120. Taylor, Alexander L., III (16 April 1984). "The Wizard Inside the Machine" (https://web.archiv
+e.org/web/20070316082637/http://www.time.com/time/printout/0,8816,954266,00.html).
+Time. Archived from the original (http://www.time.com/time/printout/0,8816,954266,00.html)
+on 16 March 2007. Retrieved 17 February 2007.
+121. Agatha C. Hughes (2000). Systems, Experts, and Computers. MIT Press. p. 161. ISBN 9780-262-08285-3. "The experience of SAGE helped make possible the first truly large-scale
+commercial real-time network: the SABRE computerized airline reservations system"
+122. Leiner, Barry M.; Cerf, Vinton G.; Clark, David D.; Kahn, Robert E.; Kleinrock, Leonard;
+Lynch, Daniel C.; Postel, Jon; Roberts, Larry G.; Wolf, Stephen (1999). "A Brief History of the
+Internet". arXiv:cs/9901011 (https://arxiv.org/abs/cs/9901011).
+123. "Definition of computer" (http://thefreedictionary.com/computer). Thefreedictionary.com.
+Archived (http://arquivo.pt/wayback/20091226162252/http%3A//www.thefreedictionary.com/c
+omputer) from the original on 26 December 2009. Retrieved 29 January 2012.
+124. II, Joseph D. Dumas (2005). Computer Architecture: Fundamentals and Principles of
+Computer Design (https://books.google.com/books?id=ZWaUurOwMPQC&q=quantum%252
+0computers). CRC Press. p. 340. ISBN 978-0849327490. Retrieved 9 November 2020.
+
+Sources
+Evans, Claire L. (2018). Broad Band: The Untold Story of the Women Who Made the Internet
+(https://books.google.com/books?id=C8ouDwAAQBAJ&pg=PP1&q=9780735211759). New
+York: Portfolio/Penguin. ISBN 978-0735211759. Retrieved 9 November 2020.
+Fuegi, J.; Francis, J. (2003). "Lovelace & Babbage and the creation of the 1843 'notes' ".
+IEEE Annals of the History of Computing. 25 (4): 16. doi:10.1109/MAHC.2003.1253887 (http
+s://doi.org/10.1109%2FMAHC.2003.1253887). S2CID 40077111 (https://api.semanticschola
+r.org/CorpusID:40077111).
+Kempf, Karl (1961). Historical Monograph: Electronic Computers Within the Ordnance Corps
+(http://ed-thelen.org/comp-hist/U-S-Ord-61.html). Aberdeen Proving Ground (United States
+Army). Archived (https://web.archive.org/web/20061016040329/http://ed-thelen.org/comp-his
+t/U-S-Ord-61.html) from the original on 16 October 2006. Retrieved 24 October 2006.
+Phillips, Tony (2000). "The Antikythera Mechanism I" (http://www.math.sunysb.edu/~tony/wh
+atsnew/column/antikytheraI-0400/kyth1.html). American Mathematical Society. Archived (http
+s://web.archive.org/web/20060427070236/http://www.math.sunysb.edu/~tony/whatsnew/col
+umn/antikytheraI-0400/kyth1.html) from the original on 27 April 2006. Retrieved 5 April 2006.
+
+Shannon, Claude Elwood (1940). A symbolic analysis of relay and switching circuits
+(Thesis). Massachusetts Institute of Technology. hdl:1721.1/11173 (https://hdl.handle.net/17
+21.1%2F11173).
+Digital Equipment Corporation (1972). PDP-11/40 Processor Handbook (https://www.minttwi
+st.com/wp-content/uploads/2016/06/D-09-30-PDP11-40-Processor-Handbook.pdf) (PDF).
+Maynard, MA: Digital Equipment Corporation. Archived (https://web.archive.org/web/201712
+01030856/https://www.minttwist.com/wp-content/uploads/2016/06/D-09-30-PDP11-40-Proce
+ssor-Handbook.pdf) (PDF) from the original on 1 December 2017. Retrieved 27 November
+2017.
+Swade, Doron D. (February 1993). "Redeeming Charles Babbage's Mechanical Computer".
+Scientific American. 268 (2): 86–91. Bibcode:1993SciAm.268b..86S (https://ui.adsabs.harvar
+d.edu/abs/1993SciAm.268b..86S). doi:10.1038/scientificamerican0293-86 (https://doi.org/1
+0.1038%2Fscientificamerican0293-86). JSTOR 24941379 (https://www.jstor.org/stable/2494
+1379).
+Meuer, Hans; Strohmaier, Erich; Simon, Horst; Dongarra, Jack (13 November 2006).
+"Architectures Share Over Time" (https://web.archive.org/web/20070220095222/http://www.t
+op500.org/lists/2006/11/overtime/Architectures). TOP500. Archived from the original (http://w
+ww.top500.org/lists/2006/11/overtime/Architectures) on 20 February 2007. Retrieved
+27 November 2006.
+Lavington, Simon (1998). A History of Manchester Computers (2nd ed.). Swindon: The
+British Computer Society. ISBN 978-0-902505-01-8.
+Light, Jennifer S. (1999). "When Computers Were Women". Technology and Culture. 40 (3):
+455–483. doi:10.1353/tech.1999.0128 (https://doi.org/10.1353%2Ftech.1999.0128).
+JSTOR 25147356 (https://www.jstor.org/stable/25147356). S2CID 108407884 (https://api.se
+manticscholar.org/CorpusID:108407884).
+Schmandt-Besserat, Denise (1999). "Tokens: The Cognitive Significance" (https://web.archi
+ve.org/web/20120130084757/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html).
+Documenta Praehistorica. XXVI. Archived from the original (http://www.laits.utexas.edu/ghaz
+al/Chap1/dsb/chapter1.html) on 30 January 2012.
+Schmandt-Besserat, Denise (1981). "Decipherment of the earliest tablets". Science. 211
+(4479): 283–285. Bibcode:1981Sci...211..283S (https://ui.adsabs.harvard.edu/abs/1981Sci...
+211..283S). doi:10.1126/science.211.4479.283 (https://doi.org/10.1126%2Fscience.211.447
+9.283). PMID 17748027 (https://pubmed.ncbi.nlm.nih.gov/17748027).
+Stokes, Jon (2007). Inside the Machine: An Illustrated Introduction to Microprocessors and
+Computer Architecture. San Francisco: No Starch Press. ISBN 978-1-59327-104-6.
+Zuse, Konrad (1993). The Computer – My life. Berlin: Pringler-Verlag. ISBN 978-0-38756453-1.
+Felt, Dorr E. (1916). Mechanical arithmetic, or The history of the counting machine (https://ar
+chive.org/details/mechanicalarithm00feltrich). Chicago: Washington Institute.
+Ifrah, Georges (2001). The Universal History of Computing: From the Abacus to the Quantum
+Computer (https://archive.org/details/unset0000unse_w3q2). New York: John Wiley & Sons.
+ISBN 978-0-471-39671-0.
+Berkeley, Edmund (1949). Giant Brains, or Machines That Think (https://archive.org/details/i
+n.ernet.dli.2015.285568). John Wiley & Sons.
+Cohen, Bernard (2000). "Howard Aiken, Portrait of a computer pioneer" (https://doi.org/10.10
+63%2F1.883007). Physics Today. Cambridge, Massachusetts: The MIT Press. 53 (3): 74–
+75. Bibcode:2000PhT....53c..74C (https://ui.adsabs.harvard.edu/abs/2000PhT....53c..74C).
+doi:10.1063/1.883007 (https://doi.org/10.1063%2F1.883007). ISBN 978-0-262-53179-5.
+Ligonnière, Robert (1987). Préhistoire et Histoire des ordinateurs. Paris: Robert Laffont.
+ISBN 978-2-221-05261-7.
+
+Couffignal, Louis (1933). Les machines à calculer; leurs principes, leur évolution. Paris:
+Gauthier-Villars.
+Essinger, James (2004). Jacquard's Web, How a hand loom led to the birth of the
+information age (https://archive.org/details/jacquardswebhowh0000essi). Oxford University
+Press. ISBN 978-0-19-280577-5.
+Hyman, Anthony (1985). Charles Babbage: Pioneer of the Computer. Princeton University
+Press. ISBN 978-0-691-02377-9.
+Bowden, B. V. (1953). Faster than thought. New York, Toronto, London: Pitman publishing
+corporation.
+Moseley, Maboth (1964). Irascible Genius, Charles Babbage, inventor. London: Hutchinson.
+Collier, Bruce (1970). The little engine that could've: The calculating machines of Charles
+Babbage (http://robroy.dyndns.info/collier/index.html). Garland Publishing. ISBN 978-08240-0043-1. Archived (https://web.archive.org/web/20070120190231/http://robroy.dyndns.i
+nfo/collier/index.html) from the original on 20 January 2007. Retrieved 24 October 2013.
+Randell, Brian (1982). "From Analytical Engine to Electronic Digital Computer: The
+Contributions of Ludgate, Torres, and Bush" (https://web.archive.org/web/20130921055055/
+http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf) (PDF). Archived from the
+original (http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf) (PDF) on 21
+September 2013. Retrieved 29 October 2013.
+Bromley, Allan G. (1990). "Difference and Analytical Engines". In Aspray, William (ed.).
+Computing Before Computers (http://ed-thelen.org/comp-hist/CBC-Ch-02.pdf) (PDF). Ames:
+Iowa State University Press. pp. 59–98. ISBN 978-0-8138-0047-9. Archived (https://ghostarc
+hive.org/archive/20221009/http://ed-thelen.org/comp-hist/CBC-Ch-02.pdf) (PDF) from the
+original on 9 October 2022.
+Smith, Erika E. (2013). "Recognizing a Collective Inheritance through the History of Women
+in Computing" (https://doi.org/10.7771%2F1481-4374.1972). CLCWeb: Comparative
+Literature and Culture. 15 (1): 1–9. doi:10.7771/1481-4374.1972 (https://doi.org/10.7771%2F
+1481-4374.1972).
+Verma, G.; Mielke, N. (1988). Reliability performance of ETOX based flash memories. IEEE
+International Reliability Physics Symposium.
+
+External links
+Media related to Computers at Wikimedia Commons
+Wikiversity has a quiz on this article
+Warhol & The Computer (http://www.computerhistory.org/atchm/warhol-the-computer/) (by
+Chris Garcia) at CHM
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Computer&oldid=1168092314"
+
+
