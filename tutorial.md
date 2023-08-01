@@ -211,7 +211,22 @@ df["embedding"] = embs # Updating the 'embedding' collumn
 df.to_csv(f"embs{g1}.csv", index=False) # Writing the final version of the csv file
 ```
 
-For this tutorial, I'm using the "gpt-3.5-turbo" OpenAI model since it is the fastest and is the most cost efficient.
+For this tutorial, I'm using the "gpt-3.5-turbo" OpenAI model since it is the fastest and is the most cost efficient. As you probably noticed, I set the temperature of the ChatBot to 0. I did this to make the ChatBot as factually accurate as possible. The temperature parameter determines the creativity of the ChatBot, where a temperature of 0 means that the ChatBot is always factually accurate and a temperature of 1 means that the ChatBot has complete freedom to make up answers and details for the sake of creativity, even if they're not accurate. The higher the temperature the more creative and less factually accurate the ChatBot is. 
 
-When you run your code, you would have prepared your data to be used by the chatbot, which means you can make the actual chatbot
+Throughout this code I mention the word "embeddings", this is just what the text in your Wikipedia document gets turned into in order to be understood and made sense of by the ChatBot. Each embedding is a list of numbers ranging from -1 to 1 that associate each piece of information by how closely it is related to another.
 
+This code makes an embeddings csv file for each document in your "chatbot_docs" folder and since you only have one (for the purpose of this tutorial), it only creates one embeddings file, but if you had more documents, the code would create an embeddings file for each document. This approach makes your ChatBot more scalable.
+
+You're also probably wondering about the part with the chunks:
+```Python
+text_splitter = RecursiveCharacterTextSplitter(separators=["\n\n",  "\n"], chunk_size=2000, chunk_overlap=250) 
+
+texts = text_splitter.split_text(content)  # Splitting the document content into chunks
+```
+Let me explain. This code splits the Wikipedia page about computers into chunks of 2000 characters and a chunk overlap of 250 characters. The bigger the chunk size the bigger the context of the ChatBot, but this can also make it slower, so I chose 2000 as a nice middle ground between 0 and 4096(the maximum chunk size) for this tutorial. As for the chunk overlap it is recommended by ChatGPT to keep the chunk overlap between 10% to 20% of the chunk size to keep some context between the different chunks while making sure that the chunks aren't redundant by keeping them from containing too much of the previous chunks data. The smaller the chunk overlap, the smaller the context between the chunks. The bigger the chunk overlap, the bigger the context between the chunks and the more redundant the chunk data. This code also splits the document by paragraphs by splitting the text every time that there is a newline ("\n" or "\n\n") to make the chunks more cohesive by making sure the chunks aren't split mid-paragraph.
+
+When you run your code, you would have prepared your data to be used by the chatbot, which means you can make the actual chatbot. While the Python file that you just ran created the embeddings needed for the ChatBot to function, now you're going to have to make another python file for the actual ChatBot that takes a question as an input, and outputs an answer made by the ChatBot. Once you've created a new python file, add the following code.
+
+```Python
+
+```
