@@ -1,0 +1,213 @@
+body{
+    background: #CCFFF1;
+    font-size: 19px;
+}
+
+@media screen and (min-width: 801px) {
+    #ib {
+        margin-left: 4.3%;
+        margin-top: 38%;
+        width: 80%;
+    }
+    h1{
+        text-align: center;
+    }
+    #chatbox {
+        position: absolute;
+        left: 5%;
+        top: 15%;
+        background: white;
+        width: 86%;
+        height: 45%;
+        border: 2px solid black;
+        border-radius: 10px;
+        overflow: auto;
+        padding: 1% 2% 1% 2%;
+    }
+
+    .loader {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        background: #2df429;
+        box-shadow: -24px 0 #2df429, 24px 0 #2df429;
+        box-sizing: border-box;
+        animation: shadowPulse 2s linear infinite;
+        display: none;
+    }
+
+    #userInput {
+        position: absolute;
+        height: 30px;
+        width: 80%;
+        font-size: 19px;
+        border-radius: 10px;
+        padding: 1% 2% 1% 1%;
+        border: 2px solid black;
+        margin-top: 10%;
+    }
+
+    #send{
+        position: absolute;
+        background: rgb(68, 241, 140);
+        border-radius: 10px;
+        padding: 1% 2% 1% 2%;
+        margin-top: 17%;
+        border: 2px solid black;
+    }
+
+
+}
+
+@media screen and (min-width: 1061px) {
+    #ib {
+        margin-left: 4.3%;
+        margin-top: 38%;
+        width: 80%;
+    }
+    h1{
+        text-align: center;
+    }
+    #chatbox {
+        position: absolute;
+        left: 5%;
+        top: 15%;
+        background: white;
+        width: 86%;
+        height: 50%;
+        border: 2px solid black;
+        border-radius: 10px;
+        overflow: auto;
+        padding: 1% 2% 1% 2%;
+    }
+
+    .loader {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        background: #2df429;
+        box-shadow: -24px 0 #2df429, 24px 0 #2df429;
+        box-sizing: border-box;
+        animation: shadowPulse 2s linear infinite;
+        display: none;
+    }
+
+    #userInput {
+        position: absolute;
+        height: 30px;
+        width: 80%;
+        font-size: 19px;
+        border-radius: 10px;
+        padding: 1% 2% 1% 1%;
+        border: 2px solid black;
+        margin-top: 0%;
+    }
+
+    #send{
+        position: absolute;
+        background: rgb(68, 241, 140);
+        border-radius: 10px;
+        padding: 1% 2% 1% 2%;
+        margin-top: 5%;
+        border: 2px solid black;
+    }
+
+
+}
+@media screen and (max-width: 800px) {
+    #ib {
+        margin-left: 4%;
+        margin-top: 120%;
+        width: 80%;
+    }
+    h1{
+        text-align: center;
+        font-size: 20px;
+    }
+    #chatbox {
+        position: absolute;
+        left: 5%;
+        top: 100px;
+        background: white;
+        width: 86%;
+        height: 300px;
+        border: 2px solid black;
+        border-radius: 10px;
+        overflow: auto;
+        padding: 1% 2% 1% 2%;
+    }
+
+    .loader {
+        position: absolute;
+        top: 296px;
+        left: 50%;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        background: #2df429;
+        box-shadow: -24px 0 #2df429, 24px 0 #2df429;
+        box-sizing: border-box;
+        animation: shadowPulse 2s linear infinite;
+        display: none;
+    }
+
+    #userInput {
+        position: absolute;
+        height: 30px;
+        width: 86%;
+        font-size: 19px;
+        border-radius: 10px;
+        padding: 1% 2% 1% 2%;
+        border: 2px solid black;
+        top: 74%;
+    }
+
+    #send{
+        position: absolute;
+        background: rgb(68, 241, 140);
+        border-radius: 10px;
+        padding: 1% 2% 1% 2%;
+        border: 2px solid black;
+        top: 81%;
+    }
+
+
+}
+
+
+@keyframes shadowPulse {
+    33% {
+        background: #2df429;
+        box-shadow: -24px 0 #0299bb, 24px 0 #2df429;
+    }
+    66% {
+        background: #0299bb;
+        box-shadow: -24px 0 #2df429, 24px 0 #2df429;
+    }
+    100% {
+        background: #2df429;
+        box-shadow: -24px 0 #2df429, 24px 0 #0299bb;
+    }
+}
+
+p{
+    margin-top: 5%;
+}
+
+#p1{
+    background:rgb(68, 241, 140, 0.7);
+    padding: 2% 2% 2% 2%;
+    border-radius: 10px;
+}
+
+#p2{
+    background:rgb(68, 206, 241, 0.7);
+    padding: 2% 2% 2% 2%;
+    border-radius: 10px;
+}
