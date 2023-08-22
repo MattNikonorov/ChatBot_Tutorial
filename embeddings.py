@@ -34,9 +34,9 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains.mapreduce import MapReduceChain
 from langchain.prompts import PromptTemplate
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'YOUR_KEY'
 
-openai.api_key = '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'
+openai.api_key = 'YOUR_KEY'
 
 llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo") # Setting your OpenAI model
 
